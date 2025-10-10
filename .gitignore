@@ -209,3 +209,4 @@ __marimo__/
 # VSCode settings
 .vscode/settings.json
 .vscode/*
+.DS_Store
