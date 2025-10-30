@@ -1,0 +1,1028 @@
+variable_estudio,categoria,total_entradas,total_abandonos,porcentaje_abandono
+sexo_inferido,hombre,22858,6384,27.9290
+sexo_inferido,mujer,17687,4069,23.0056
+provincia,alava,83,19,22.8916
+provincia,albacete,9189,2507,27.2826
+provincia,alicante,88,25,28.4091
+provincia,almeria,97,22,22.6804
+provincia,asturias,90,15,16.6667
+provincia,avila,87,22,25.2874
+provincia,badajoz,88,24,27.2727
+provincia,baleares,92,25,27.1739
+provincia,barcelona,102,28,27.4510
+provincia,burgos,71,21,29.5775
+provincia,caceres,84,15,17.8571
+provincia,cadiz,74,21,28.3784
+provincia,cantabria,97,25,25.7732
+provincia,castellon,90,26,28.8889
+provincia,ceuta,77,24,31.1688
+provincia,ciudad,89,28,31.4607
+provincia,ciudad real,10089,2694,26.7023
+provincia,cordoba,89,24,26.9663
+provincia,cuenca,6986,1852,26.5102
+provincia,girona,88,19,21.5909
+provincia,granada,97,24,24.7423
+provincia,guadalajara,103,27,26.2136
+provincia,guipuzcoa,85,23,27.0588
+provincia,huelva,91,19,20.8791
+provincia,huesca,98,36,36.7347
+provincia,jaen,82,20,24.3902
+provincia,la coruna,99,25,25.2525
+provincia,la rioja,76,20,26.3158
+provincia,las palmas,84,26,30.9524
+provincia,leon,81,19,23.4568
+provincia,lleida,97,26,26.8041
+provincia,lugo,99,19,19.1919
+provincia,madrid,95,28,29.4737
+provincia,malaga,87,19,21.8391
+provincia,melilla,84,20,23.8095
+provincia,murcia,97,19,19.5876
+provincia,navarra,97,23,23.7113
+provincia,ourense,80,19,23.7500
+provincia,palencia,89,22,24.7191
+provincia,pontevedra,101,25,24.7525
+provincia,salamanca,87,26,29.8851
+provincia,santa cruz de tenerife,111,26,23.4234
+provincia,segovia,71,17,23.9437
+provincia,sevilla,111,30,27.0270
+provincia,soria,88,18,20.4545
+provincia,tarragona,104,18,17.3077
+provincia,teruel,93,25,26.8817
+provincia,toledo,9848,2276,23.1113
+provincia,valencia,86,16,18.6047
+provincia,valladolid,80,21,26.2500
+provincia,vizcaya,102,30,29.4118
+provincia,zamora,92,21,22.8261
+provincia,zaragoza,100,34,34.0000
+comentarios,absolutamente implicado en su formacion,31,0,0.0000
+comentarios,accede a la plataforma con frecuencia normal,34,4,11.7647
+comentarios,acceso esporadico a biblioteca,32,10,31.2500
+comentarios,actitud correcta en clase,34,11,32.3529
+comentarios,actitud desafiante en algunas sesiones practicas,14,14,100.0000
+comentarios,actitud muy positiva frente a desafios,37,0,0.0000
+comentarios,actitud pasiva pero correcta,41,9,21.9512
+comentarios,actua como mentor para companeros con dificultades,28,0,0.0000
+comentarios,acude a clases con normalidad,35,7,20.0000
+comentarios,acumula un historial de notas muy bajas preocupante,7,6,85.7143
+comentarios,alumno brillante con un gran futuro por delante,31,0,0.0000
+comentarios,aplica conceptos de otras areas de forma creativa un perfil muy interdisciplinar,36,1,2.7778
+comentarios,aporta buen ambiente al grupo,32,0,0.0000
+comentarios,aporta cohesion al grupo de trabajo,21,0,0.0000
+comentarios,aporta datos en cuestionarios oficiales,39,12,30.7692
+comentarios,aporta ideas valiosas en el aula,418,6,1.4354
+comentarios,aporta ideas valiosas en el grupo de trabajo,258,2,0.7752
+comentarios,aporta ideas valiosas en los foros de moodle,346,3,0.8671
+comentarios,aporta recursos extra al grupo,37,0,0.0000
+comentarios,aporta respuestas de calidad a companeros,34,0,0.0000
+comentarios,aporta una perspectiva fresca y novedosa a los proyectos,34,0,0.0000
+comentarios,aprovecha bien las tutorias con docentes,27,0,0.0000
+comentarios,argumenta sus ideas con una logica impecable y bien fundamentada,32,0,0.0000
+comentarios,asiste a tutorias puntualmente,39,6,15.3846
+comentarios,asiste sin mas,32,5,15.6250
+comentarios,asistencia a parciales correcta,37,5,13.5135
+comentarios,asistencia constante a clases,120,24,20.0000
+comentarios,asistencia constante a seminarios,179,33,18.4358
+comentarios,asistencia constante a tutorias,91,18,19.7802
+comentarios,asistencia correcta a clases,96,31,32.2917
+comentarios,asistencia correcta a seminarios,216,48,22.2222
+comentarios,asistencia correcta a tutorias,34,7,20.5882
+comentarios,asistencia puntual a actividades deportivas,46,11,23.9130
+comentarios,asistencia regular,35,9,25.7143
+comentarios,asistencia regular a clases,174,47,27.0115
+comentarios,asistencia regular a seminarios,151,35,23.1788
+comentarios,asistencia regular a tutorias,170,38,22.3529
+comentarios,asistencia regular y puntualidad,38,1,2.6316
+comentarios,atencion basica en sesiones de apoyo,30,8,26.6667
+comentarios,atraso acumulado en practicas obligatorias,11,10,90.9091
+comentarios,aunque asiste su participacion es nula y parece ausente,12,11,91.6667
+comentarios,ausencia de planificacion academica,13,11,84.6154
+comentarios,ausencias injustificadas en clase,159,155,97.4843
+comentarios,ausencias injustificadas en practicas,98,92,93.8776
+comentarios,ausencias injustificadas en seminarios,61,59,96.7213
+comentarios,ausencias injustificadas en tutorias,70,67,95.7143
+comentarios,ausencias reiteradas en tutorias,7,7,100.0000
+comentarios,ayuda a otros estudiantes de forma desinteresada y proactiva,35,1,2.8571
+comentarios,bajo nivel de uso de la plataforma moodle,11,10,90.9091
+comentarios,bajo rendimiento en asignaturas basicas,97,91,93.8144
+comentarios,bajo rendimiento en fisica,119,116,97.4790
+comentarios,bajo rendimiento en matematicas,71,65,91.5493
+comentarios,bajo rendimiento en troncales,149,141,94.6309
+comentarios,bloqueo con matematicas basicas,11,11,100.0000
+comentarios,buen trato hacia docentes y companeros,32,1,3.1250
+comentarios,busca activamente practicas y oportunidades profesionales,36,0,0.0000
+comentarios,calidad de redaccion excepcional en sus informes da gusto leerlos,30,0,0.0000
+comentarios,calificaciones cada vez mas bajas,15,13,86.6667
+comentarios,calificaciones dentro de lo esperado,41,7,17.0732
+comentarios,calificaciones sobresalientes en practicas,31,0,0.0000
+comentarios,capacidad analitica envidiable,37,2,5.4054
+comentarios,capacidad de liderazgo observada en proyectos,35,0,0.0000
+comentarios,carece de la base necesaria para la asignatura se recomienda refuerzo,9,9,100.0000
+comentarios,casi sin actividad en foros de la materia,10,10,100.0000
+comentarios,casi sin creditos aprobados,14,14,100.0000
+comentarios,colabora con encuestas basicas,30,8,26.6667
+comentarios,colabora en actividades extracurriculares,26,1,3.8462
+comentarios,colabora en todas las actividades,24,0,0.0000
+comentarios,comportamiento aceptable en el aula,394,93,23.6041
+comentarios,comportamiento adecuado,39,5,12.8205
+comentarios,comportamiento adecuado en el aula,359,96,26.7409
+comentarios,comportamiento correcto en el aula,257,64,24.9027
+comentarios,compromiso en la asistencia,34,0,0.0000
+comentarios,compromiso mantenido en todo el curso,24,1,4.1667
+comentarios,comunicacion casi inexistente con el tutor asignado,9,8,88.8889
+comentarios,comunicacion limitada con docentes,36,9,25.0000
+comentarios,conducta acorde al reglamento,48,13,27.0833
+comentarios,conducta pasiva en practicas obligatorias,10,10,100.0000
+comentarios,confiesa no dedicarle tiempo de estudio en casa,11,10,90.9091
+comentarios,conflictos en el grupo de trabajo reportados,15,15,100.0000
+comentarios,conforme,30,5,16.6667
+comentarios,constancia en el estudio,25,0,0.0000
+comentarios,consulta bibliografia adicional por iniciativa,21,0,0.0000
+comentarios,consulta dudas de forma ocasional,43,6,13.9535
+comentarios,contacta por correo electronico en ocasiones,30,8,26.6667
+comentarios,cumple,47,10,21.2766
+comentarios,cumple metas academicas con disciplina,36,1,2.7778
+comentarios,cumple plazos basicos de entrega,39,9,23.0769
+comentarios,cumple siempre con las entregas,496,5,1.0081
+comentarios,cumple siempre con las fechas de entrega,363,6,1.6529
+comentarios,cumple siempre con las normas del aula,117,1,0.8547
+comentarios,cumple siempre con los requisitos,34,1,2.9412
+comentarios,cumplimiento de normativas basico,45,8,17.7778
+comentarios,curiosidad intelectual permanente,32,0,0.0000
+comentarios,curiosidad sin limites siempre pregunta 'y por que?',29,0,0.0000
+comentarios,deja todo para el ultimo momento procrastinacion severa,16,15,93.7500
+comentarios,demasiados suspensos en un mismo semestre,12,12,100.0000
+comentarios,demuestra autonomia en el aprendizaje,22,1,4.5455
+comentarios,demuestra un notable interes y curiosidad,39,0,0.0000
+comentarios,desapego progresivo al entorno academico,7,7,100.0000
+comentarios,desaprovecha recursos de la universidad,19,18,94.7368
+comentarios,descarga basica de materiales,39,7,17.9487
+comentarios,desconocido,12295,3123,25.4006
+comentarios,desinteres aparente en las tareas colectivas,19,16,84.2105
+comentarios,destaca en las evaluaciones aplicadas,34,1,2.9412
+comentarios,destaca por su responsabilidad social,34,1,2.9412
+comentarios,destreza en la resolucion de problemas,34,1,2.9412
+comentarios,dificultades en la gestion del tiempo personal,13,13,100.0000
+comentarios,dificultades graves en asignaturas de primer ano,14,14,100.0000
+comentarios,dificultades para compaginar asistencia y tareas,74,67,90.5405
+comentarios,dificultades para compaginar trabajo y estudio,162,149,91.9753
+comentarios,dificultades para compaginar vida personal y estudios,97,90,92.7835
+comentarios,dirige con eficacia el grupo de trabajo,42,1,2.3810
+comentarios,domina el software de la asignatura a nivel experto,38,0,0.0000
+comentarios,ejecuta las tareas segun lo solicitado ni mas ni menos,39,9,23.0769
+comentarios,el alumno cumple con los minimos exigibles para superar la materia,46,13,28.2609
+comentarios,elemento clave y colaborador en su grupo,34,0,0.0000
+comentarios,entorno personal poco favorable para el estudio,9,9,100.0000
+comentarios,entrega adecuada de tareas,319,70,21.9436
+comentarios,entrega de examenes en condiciones normales,50,8,16.0000
+comentarios,entrega de trabajos impecable,29,0,0.0000
+comentarios,entrega en plazo de tareas,507,116,22.8797
+comentarios,entrega las tareas en plazo,33,7,21.2121
+comentarios,entrega puntual de tareas,293,72,24.5734
+comentarios,entrega trabajos copiados de fuentes de internet sin citar,8,8,100.0000
+comentarios,entregas incompletas o de baja calidad,17,17,100.0000
+comentarios,es un alumno silencioso pero parece atento,34,7,20.5882
+comentarios,es un ejemplo a seguir para sus companeros,25,0,0.0000
+comentarios,esta bloqueado con el tfg sin avances en meses,11,11,100.0000
+comentarios,evolucion academica dentro de la normalidad sin altibajos,45,13,28.8889
+comentarios,evolucion academica excelente,29,2,6.8966
+comentarios,excelente companero siempre ayuda,28,2,7.1429
+comentarios,expediente administrativo en orden,38,9,23.6842
+comentarios,expone dudas pertinentes en tutorias,38,1,2.6316
+comentarios,expone intencion de abandonar estudios,13,13,100.0000
+comentarios,expresa dudas sobre continuar los estudios,129,118,91.4729
+comentarios,expresa dudas sobre la titulacion,162,154,95.0617
+comentarios,expresa dudas sobre su vocacion,152,141,92.7632
+comentarios,expresa inseguridad sobre su futuro profesional,14,13,92.8571
+comentarios,expresion verbal correcta,30,4,13.3333
+comentarios,falla en competencias esenciales,8,8,100.0000
+comentarios,falta de apoyo familiar detectada,11,11,100.0000
+comentarios,falta de motivacion evidente,13,13,100.0000
+comentarios,faltas de asistencia superiores a la media,11,10,90.9091
+comentarios,faltas puntuales justificadas,30,8,26.6667
+comentarios,faltas reiteradas en clase,65,62,95.3846
+comentarios,faltas reiteradas en practicas,64,59,92.1875
+comentarios,faltas reiteradas en seminarios,49,46,93.8776
+comentarios,faltas reiteradas en tutorias,40,36,90.0000
+comentarios,fortalece la cohesion entre companeros,28,1,3.5714
+comentarios,genera debate constructivo en linea,37,1,2.7027
+comentarios,genera dinamica positiva en equipos,32,1,3.1250
+comentarios,gran capacidad de autoestudio,37,0,0.0000
+comentarios,gran comunicador en exposiciones,31,1,3.2258
+comentarios,graves dificultades economicas,9,8,88.8889
+comentarios,ha acumulado varias asignaturas pendientes,21,20,95.2381
+comentarios,ha comunicado problemas de salud recurrentes,14,12,85.7143
+comentarios,ha comunicado problemas economicos familiares,12,11,91.6667
+comentarios,ha expresado dudas sobre continuar en la titulacion,7,7,100.0000
+comentarios,ha mejorado notablemente en asignaturas troncales,412,6,1.4563
+comentarios,ha mejorado notablemente en estadistica,203,2,0.9852
+comentarios,ha mejorado notablemente en matematicas,240,5,2.0833
+comentarios,ha mejorado notablemente en programacion,243,3,1.2346
+comentarios,ha obtenido becas de colaboracion y premios,26,0,0.0000
+comentarios,ha pedido segunda convocatoria de varias asignaturas,16,16,100.0000
+comentarios,ha pedido traslado a otra universidad,17,16,94.1176
+comentarios,ha senalado dificultades de recursos basicos,8,8,100.0000
+comentarios,ha solicitado cambio de asignaturas obligatorias,13,13,100.0000
+comentarios,ha solicitado cita con el servicio psicologico,13,13,100.0000
+comentarios,ha superado dificultades personales sin que afecte a su rendimiento admirable,31,0,0.0000
+comentarios,habilidades de organizacion sobresalientes,35,0,0.0000
+comentarios,habilidades logicas destacables,45,1,2.2222
+comentarios,habla de cambiar de ciudad por motivos personales,11,10,90.9091
+comentarios,habla de darse de baja en proximas semanas,14,14,100.0000
+comentarios,habla en publico con confianza,36,0,0.0000
+comentarios,impulsor de actividades complementarias,35,0,0.0000
+comentarios,inasistencia sin justificar en examenes parciales,7,6,85.7143
+comentarios,independiente y eficaz al resolver tareas,35,0,0.0000
+comentarios,informe del profesor indica bajo compromiso,6,6,100.0000
+comentarios,integracion adecuada en el grupo,35,7,20.0000
+comentarios,interaccion justa y necesaria,32,4,12.5000
+comentarios,interaccion minima pero correcta,40,7,17.5000
+comentarios,interaccion respetuosa con profesores,33,0,0.0000
+comentarios,interaccion social neutra,52,12,23.0769
+comentarios,interes genuino en aprender mas,29,0,0.0000
+comentarios,interviene en algunas sesiones,33,10,30.3030
+comentarios,justifica sus suspensos culpando a factores externos,18,18,100.0000
+comentarios,lenguaje apropiado,35,9,25.7143
+comentarios,lider natural el resto del equipo confia en su criterio,26,0,0.0000
+comentarios,maneja el estres de los examenes con una calma admirable,30,0,0.0000
+comentarios,matricula formalizada sin incidencias,42,11,26.1905
+comentarios,mejora constante en sus resultados,31,1,3.2258
+comentarios,modera los debates en clase de forma brillante,41,0,0.0000
+comentarios,motivacion evidente hacia la carrera,25,0,0.0000
+comentarios,muestra bajo nivel de participacion en clase,12,11,91.6667
+comentarios,muestra dificultades de adaptacion al ritmo universitario,11,11,100.0000
+comentarios,muestra gran fortaleza y una impresionante capacidad de superacion,25,0,0.0000
+comentarios,muestra gran interes por asignaturas troncales,459,4,0.8715
+comentarios,muestra gran interes por estadistica,115,1,0.8696
+comentarios,muestra gran interes por matematicas,180,2,1.1111
+comentarios,muestra gran interes por programacion,262,1,0.3817
+comentarios,muestra lagunas de conocimiento de cursos anteriores,13,13,100.0000
+comentarios,muestra un interes normal por la asignatura,34,8,23.5294
+comentarios,muy participativo en clase aporta ideas,34,1,2.9412
+comentarios,muy trabajador y constante,38,1,2.6316
+comentarios,nivel academico muy alto,40,1,2.5000
+comentarios,no acude a tutorias de recuperacion,14,14,100.0000
+comentarios,no asiste a clase,97,89,91.7526
+comentarios,no asiste a practicas,119,114,95.7983
+comentarios,no asiste a seminarios,99,91,91.9192
+comentarios,no asiste a seminarios practicos,8,8,100.0000
+comentarios,no asiste a sesiones de tutoria con regularidad,16,16,100.0000
+comentarios,no asiste a tutorias,142,136,95.7746
+comentarios,no cuenta con referentes universitarios,20,17,85.0000
+comentarios,no descarga materiales de apoyo,12,10,83.3333
+comentarios,no destaca ni positiva ni negativamente,41,7,17.0732
+comentarios,no entrega ejercicios en plazo,64,60,93.7500
+comentarios,no entrega informes en plazo,127,119,93.7008
+comentarios,no entrega practicas en plazo,85,82,96.4706
+comentarios,no entrega trabajos en plazo,96,90,93.7500
+comentarios,no entrega trabajos en plazo de forma repetida,19,17,89.4737
+comentarios,no interactua con nadie ni en clase ni fuera,14,13,92.8571
+comentarios,no interviene pero sigue la clase sin problemas aparentes,36,10,27.7778
+comentarios,no logra adaptarse al entorno academico,11,11,100.0000
+comentarios,no logra recuperar asignaturas previas,5,4,80.0000
+comentarios,no parece que vaya a continuar el ano que viene,16,14,87.5000
+comentarios,no participa en actividades extracurriculares,10,10,100.0000
+comentarios,no presenta alteraciones de conducta,40,10,25.0000
+comentarios,no presenta los entregables del trabajo de fin de grado,10,10,100.0000
+comentarios,no requiere adaptaciones curriculares,28,10,35.7143
+comentarios,no responde a los correos electronicos del profesorado,14,13,92.8571
+comentarios,no se detectan incidencias relevantes,29,11,37.9310
+comentarios,no se han reportado problemas de ningun tipo,36,9,25.0000
+comentarios,no se presenta a las revisiones de examen,6,6,100.0000
+comentarios,no suele faltar a clase,32,8,25.0000
+comentarios,no trae el material necesario a las practicas,12,9,75.0000
+comentarios,notas aceptable en evaluaciones,482,127,26.3485
+comentarios,notas basico en evaluaciones,687,177,25.7642
+comentarios,notas moderado en evaluaciones,548,125,22.8102
+comentarios,notas muy por encima de la media,32,1,3.1250
+comentarios,notas promedio sin destacar,38,7,18.4211
+comentarios,nunca ha entrado en el horario de tutorias,12,11,91.6667
+comentarios,obtiene notas muy altas en trabajos practicos,30,0,0.0000
+comentarios,obtiene resultados destacados en examenes,255,0,0.0000
+comentarios,obtiene resultados destacados en presentaciones,446,6,1.3453
+comentarios,obtiene resultados destacados en trabajos,256,3,1.1719
+comentarios,ok,33,5,15.1515
+comentarios,parece confiado pero los resultados no acompanan su actitud,12,12,100.0000
+comentarios,parece sobrepasado por la carga de trabajo no gestiona bien los plazos,11,11,100.0000
+comentarios,parece tener dificultades para establecer relaciones sociales,14,14,100.0000
+comentarios,participa activamente en clase,426,2,0.4695
+comentarios,participa activamente en foros,119,1,0.8403
+comentarios,participa activamente en foros moodle,26,0,0.0000
+comentarios,participa activamente en seminarios,298,2,0.6711
+comentarios,participa activamente en tutorias,273,2,0.7326
+comentarios,participa cuando se le solicita,37,9,24.3243
+comentarios,participa de forma educada,41,10,24.3902
+comentarios,participa en eventos universitarios,29,0,0.0000
+comentarios,participacion aceptable en clase,237,60,25.3165
+comentarios,participacion activa y destacada en clase,31,0,0.0000
+comentarios,participacion basico en clase,382,98,25.6545
+comentarios,participacion en evaluaciones habitual,38,5,13.1579
+comentarios,participacion minima en proyectos grupales,11,9,81.8182
+comentarios,participacion moderada en clase,36,9,25.0000
+comentarios,participacion moderado en clase,352,72,20.4545
+comentarios,participacion optima en sesiones de seguimiento,35,0,0.0000
+comentarios,pasa desapercibido en el aula,51,13,25.4902
+comentarios,pensamiento critico y creativo en el laboratorio,38,0,0.0000
+comentarios,perfil de alumno estandar,29,6,20.6897
+comentarios,pieza fundamental en proyectos grupales,33,0,0.0000
+comentarios,plantea un cambio de carrera,14,12,85.7143
+comentarios,plantea un posible cambio de titulacion,13,13,100.0000
+comentarios,poca o ninguna autocritica sobre su rendimiento,10,8,80.0000
+comentarios,posible caso de plagio en el ultimo informe se requiere revision,15,14,93.3333
+comentarios,pregunta en tutorias de vez en cuando,32,10,31.2500
+comentarios,pregunta por cuestiones que ya han sido explicadas repetidamente,6,6,100.0000
+comentarios,presencia correcta en tutorias,30,10,33.3333
+comentarios,presenta signos de ansiedad en examenes,15,14,93.3333
+comentarios,presenta trabajos en tiempo,41,10,24.3902
+comentarios,presentaciones claras y estructuradas,25,0,0.0000
+comentarios,proactivo en la busqueda de material complementario,33,0,0.0000
+comentarios,problemas de integracion en su grupo,12,11,91.6667
+comentarios,problemas economicos en casa que afectan al estudio,16,13,81.2500
+comentarios,problemas emocionales que afectan al rendimiento,10,9,90.0000
+comentarios,problemas para seguir el ritmo de las clases,7,7,100.0000
+comentarios,progresa adecuadamente,46,9,19.5652
+comentarios,progreso academico medio,29,5,17.2414
+comentarios,progreso notable semestre tras semestre,26,0,0.0000
+comentarios,promedio de notas superior a 8,30,2,6.6667
+comentarios,propone soluciones originales e innovadoras a los problemas planteados,32,0,0.0000
+comentarios,realiza las entregas y poco mas,39,11,28.2051
+comentarios,referente en su promocion,30,1,3.3333
+comentarios,relacion aceptable con companeros,421,113,26.8409
+comentarios,relacion adecuado con companeros,473,124,26.2156
+comentarios,relacion correcto con companeros,398,94,23.6181
+comentarios,relaciones normales con companeros,43,15,34.8837
+comentarios,rendimiento academico muy deficiente,12,11,91.6667
+comentarios,rendimiento acorde a la media,43,9,20.9302
+comentarios,rendimiento decreciente en semestres recientes,17,15,88.2353
+comentarios,rendimiento global excelente,35,0,0.0000
+comentarios,rendimiento muy bajo en materias troncales,10,9,90.0000
+comentarios,rendimiento sobresaliente matricula de honor en varias asignaturas,25,0,0.0000
+comentarios,reportes de profesores: alumno desconectado,14,14,100.0000
+comentarios,respeta las reglas establecidas,40,11,27.5000
+comentarios,respeta plazos con alta calidad en los entregables,33,1,3.0303
+comentarios,responde a encuestas institucionales,34,10,29.4118
+comentarios,responde a mensajes con normalidad,34,10,29.4118
+comentarios,retrasos frecuentes en entrega de practicas,15,15,100.0000
+comentarios,se ausenta en tutorias sin justificar,6,6,100.0000
+comentarios,se detectan roces frecuentes con companeros,15,15,100.0000
+comentarios,se distrae con facilidad en clase,15,15,100.0000
+comentarios,se duerme en clase con frecuencia,9,8,88.8889
+comentarios,se le ve aislado del resto de la clase,9,8,88.8889
+comentarios,se mantiene en la media del grupo,43,15,34.8837
+comentarios,se muestra ilusionado con la titulacion,30,0,0.0000
+comentarios,se muestra perdido no sabe que hay que hacer en las tareas,12,10,83.3333
+comentarios,se nota que disfruta aprendiendo transmite entusiasmo,34,0,0.0000
+comentarios,se observa perdida de interes por los estudios,11,11,100.0000
+comentarios,se ofrece para ayudar a companeros,284,5,1.7606
+comentarios,se ofrece para ayudar a el equipo,460,2,0.4348
+comentarios,se ofrece para ayudar a nuevos estudiantes,394,1,0.2538
+comentarios,se percibe una falta de interes total en la materia,14,13,92.8571
+comentarios,se plantea abandonar por dificultades personales,176,169,96.0227
+comentarios,se plantea abandonar por falta de motivacion,178,170,95.5056
+comentarios,se plantea abandonar por problemas economicos,162,150,92.5926
+comentarios,se plantea dejarlo,18,16,88.8889
+comentarios,se plantea interrumpir la carrera este curso,10,8,80.0000
+comentarios,se recomienda seguimiento por posible desmotivacion,16,16,100.0000
+comentarios,siempre dispuesto a colaborar con el departamento en lo que haga falta,30,0,0.0000
+comentarios,siempre presente en clases teoricas y practicas,47,0,0.0000
+comentarios,siempre va un paso por delante del temario,38,0,0.0000
+comentarios,sigue las indicaciones de las practicas al pie de la letra,41,8,19.5122
+comentarios,sin comentarios adicionales,33,10,30.3030
+comentarios,sin incidencias,44,14,31.8182
+comentarios,sin novedad en el seguimiento,37,11,29.7297
+comentarios,sin solicitudes especiales registradas,41,6,14.6341
+comentarios,situacion academica estable,453,102,22.5166
+comentarios,situacion academica normal,346,89,25.7225
+comentarios,situacion academica sin cambios,282,74,26.2411
+comentarios,situacion academica sin cambios relevantes,42,11,26.1905
+comentarios,situacion administrativa estable,36,6,16.6667
+comentarios,situacion familiar compleja que interfiere con sus estudios,16,16,100.0000
+comentarios,situacion normal,37,11,29.7297
+comentarios,solicita reconocimiento de estudios externos,14,13,92.8571
+comentarios,su actitud frente a el trabajo en equipo es ejemplar,307,3,0.9772
+comentarios,su actitud frente a las practicas es ejemplar,360,3,0.8333
+comentarios,su actitud frente a los examenes es ejemplar,263,4,1.5209
+comentarios,su asistencia es correcta,44,14,31.8182
+comentarios,su capacidad para sintetizar ideas complejas es digna de mencion,35,1,2.8571
+comentarios,su participacion siempre enriquece el debate en el aula,42,0,0.0000
+comentarios,su rendimiento es suficiente,45,9,20.0000
+comentarios,su rendimiento ha caido en picado este ultimo semestre,14,14,100.0000
+comentarios,su tfg es de una calidad excepcional podria publicarse,34,0,0.0000
+comentarios,subestima la dificultad de las materias y no estudia lo suficiente,12,12,100.0000
+comentarios,suspensos reiterados en asignaturas clave,13,12,92.3077
+comentarios,tiene dudas sobre la carrera elegida,12,12,100.0000
+comentarios,tiene un plan de carrera claro y trabaja para conseguirlo,27,0,0.0000
+comentarios,un placer tenerle en clase,30,0,0.0000
+comentarios,uso de moodle estandar,34,5,14.7059
+comentarios,uso estandar de la plataforma moodle,369,82,22.2222
+comentarios,uso excesivo del movil durante las explicaciones,13,13,100.0000
+comentarios,uso habitual de la plataforma moodle,252,76,30.1587
+comentarios,uso normal de la plataforma moodle,462,114,24.6753
+comentarios,uso ocasional de servicios universitarios,35,8,22.8571
+comentarios,viene a clase solo a cumplir el expediente,4,4,100.0000
+comentarios,¡un alumno excelente! de los que dejan huella,36,0,0.0000
+longitud_nombre_categorizada,Corto,6801,1749,25.7168
+longitud_nombre_categorizada,Largo,9128,2389,26.1722
+longitud_nombre_categorizada,Muy_Corto,5699,1490,26.1449
+longitud_nombre_categorizada,Muy_Largo,18917,4825,25.5062
+residencia_grupo_combinado,SIN_RESIDENCIA_EN_GRUPO:gr0,14563,3753,25.7708
+residencia_grupo_combinado,SIN_RESIDENCIA_EN_GRUPO:gr1,14327,3624,25.2949
+residencia_grupo_combinado,e1-p00-h01---gr0,21,4,19.0476
+residencia_grupo_combinado,e1-p00-h01---gr1,25,11,44.0000
+residencia_grupo_combinado,e1-p00-h02---gr0,24,10,41.6667
+residencia_grupo_combinado,e1-p00-h02---gr1,27,6,22.2222
+residencia_grupo_combinado,e1-p00-h03---gr0,14,2,14.2857
+residencia_grupo_combinado,e1-p00-h03---gr1,20,8,40.0000
+residencia_grupo_combinado,e1-p00-h04---gr0,21,9,42.8571
+residencia_grupo_combinado,e1-p00-h04---gr1,17,6,35.2941
+residencia_grupo_combinado,e1-p00-h05---gr0,21,5,23.8095
+residencia_grupo_combinado,e1-p00-h05---gr1,25,7,28.0000
+residencia_grupo_combinado,e1-p00-h06---gr0,19,3,15.7895
+residencia_grupo_combinado,e1-p00-h06---gr1,20,6,30.0000
+residencia_grupo_combinado,e1-p00-h07---gr0,19,8,42.1053
+residencia_grupo_combinado,e1-p00-h07---gr1,19,3,15.7895
+residencia_grupo_combinado,e1-p00-h08---gr0,18,3,16.6667
+residencia_grupo_combinado,e1-p00-h08---gr1,19,6,31.5789
+residencia_grupo_combinado,e1-p00-h09---gr0,22,6,27.2727
+residencia_grupo_combinado,e1-p00-h09---gr1,26,3,11.5385
+residencia_grupo_combinado,e1-p00-h10---gr0,28,10,35.7143
+residencia_grupo_combinado,e1-p00-h10---gr1,14,6,42.8571
+residencia_grupo_combinado,e1-p00-h11---gr0,12,5,41.6667
+residencia_grupo_combinado,e1-p00-h11---gr1,24,9,37.5000
+residencia_grupo_combinado,e1-p00-h12---gr0,14,3,21.4286
+residencia_grupo_combinado,e1-p00-h12---gr1,21,5,23.8095
+residencia_grupo_combinado,e1-p00-h13---gr0,15,6,40.0000
+residencia_grupo_combinado,e1-p00-h13---gr1,16,6,37.5000
+residencia_grupo_combinado,e1-p00-h14---gr0,23,6,26.0870
+residencia_grupo_combinado,e1-p00-h14---gr1,20,7,35.0000
+residencia_grupo_combinado,e1-p00-h15---gr0,19,6,31.5789
+residencia_grupo_combinado,e1-p00-h15---gr1,19,4,21.0526
+residencia_grupo_combinado,e1-p00-h16---gr0,17,5,29.4118
+residencia_grupo_combinado,e1-p00-h16---gr1,23,4,17.3913
+residencia_grupo_combinado,e1-p00-h17---gr0,27,8,29.6296
+residencia_grupo_combinado,e1-p00-h17---gr1,19,6,31.5789
+residencia_grupo_combinado,e1-p00-h18---gr0,19,4,21.0526
+residencia_grupo_combinado,e1-p00-h18---gr1,14,7,50.0000
+residencia_grupo_combinado,e1-p00-h19---gr0,24,7,29.1667
+residencia_grupo_combinado,e1-p00-h19---gr1,17,4,23.5294
+residencia_grupo_combinado,e1-p00-h20---gr0,29,8,27.5862
+residencia_grupo_combinado,e1-p00-h20---gr1,24,8,33.3333
+residencia_grupo_combinado,e1-p01-h01---gr0,23,8,34.7826
+residencia_grupo_combinado,e1-p01-h01---gr1,20,4,20.0000
+residencia_grupo_combinado,e1-p01-h02---gr0,30,7,23.3333
+residencia_grupo_combinado,e1-p01-h02---gr1,11,4,36.3636
+residencia_grupo_combinado,e1-p01-h03---gr0,14,5,35.7143
+residencia_grupo_combinado,e1-p01-h03---gr1,20,4,20.0000
+residencia_grupo_combinado,e1-p01-h04---gr0,26,4,15.3846
+residencia_grupo_combinado,e1-p01-h04---gr1,18,4,22.2222
+residencia_grupo_combinado,e1-p01-h05---gr0,12,2,16.6667
+residencia_grupo_combinado,e1-p01-h05---gr1,20,7,35.0000
+residencia_grupo_combinado,e1-p01-h06---gr0,21,6,28.5714
+residencia_grupo_combinado,e1-p01-h06---gr1,16,5,31.2500
+residencia_grupo_combinado,e1-p01-h07---gr0,19,7,36.8421
+residencia_grupo_combinado,e1-p01-h07---gr1,27,6,22.2222
+residencia_grupo_combinado,e1-p01-h08---gr0,13,6,46.1538
+residencia_grupo_combinado,e1-p01-h08---gr1,19,3,15.7895
+residencia_grupo_combinado,e1-p01-h09---gr0,22,6,27.2727
+residencia_grupo_combinado,e1-p01-h09---gr1,23,4,17.3913
+residencia_grupo_combinado,e1-p01-h10---gr0,20,3,15.0000
+residencia_grupo_combinado,e1-p01-h10---gr1,21,4,19.0476
+residencia_grupo_combinado,e1-p01-h11---gr0,28,6,21.4286
+residencia_grupo_combinado,e1-p01-h11---gr1,23,7,30.4348
+residencia_grupo_combinado,e1-p01-h12---gr0,24,5,20.8333
+residencia_grupo_combinado,e1-p01-h12---gr1,21,1,4.7619
+residencia_grupo_combinado,e1-p01-h13---gr0,19,4,21.0526
+residencia_grupo_combinado,e1-p01-h13---gr1,23,5,21.7391
+residencia_grupo_combinado,e1-p01-h14---gr0,18,4,22.2222
+residencia_grupo_combinado,e1-p01-h14---gr1,24,7,29.1667
+residencia_grupo_combinado,e1-p01-h15---gr0,14,4,28.5714
+residencia_grupo_combinado,e1-p01-h15---gr1,23,9,39.1304
+residencia_grupo_combinado,e1-p01-h16---gr0,14,3,21.4286
+residencia_grupo_combinado,e1-p01-h16---gr1,26,9,34.6154
+residencia_grupo_combinado,e1-p01-h17---gr0,10,1,10.0000
+residencia_grupo_combinado,e1-p01-h17---gr1,28,5,17.8571
+residencia_grupo_combinado,e1-p01-h18---gr0,22,7,31.8182
+residencia_grupo_combinado,e1-p01-h18---gr1,22,7,31.8182
+residencia_grupo_combinado,e1-p01-h19---gr0,23,5,21.7391
+residencia_grupo_combinado,e1-p01-h19---gr1,15,3,20.0000
+residencia_grupo_combinado,e1-p01-h20---gr0,19,3,15.7895
+residencia_grupo_combinado,e1-p01-h20---gr1,24,7,29.1667
+residencia_grupo_combinado,e1-p02-h01---gr0,17,1,5.8824
+residencia_grupo_combinado,e1-p02-h01---gr1,17,6,35.2941
+residencia_grupo_combinado,e1-p02-h02---gr0,21,5,23.8095
+residencia_grupo_combinado,e1-p02-h02---gr1,14,5,35.7143
+residencia_grupo_combinado,e1-p02-h03---gr0,17,2,11.7647
+residencia_grupo_combinado,e1-p02-h03---gr1,18,9,50.0000
+residencia_grupo_combinado,e1-p02-h04---gr0,24,4,16.6667
+residencia_grupo_combinado,e1-p02-h04---gr1,18,3,16.6667
+residencia_grupo_combinado,e1-p02-h05---gr0,24,9,37.5000
+residencia_grupo_combinado,e1-p02-h05---gr1,22,4,18.1818
+residencia_grupo_combinado,e1-p02-h06---gr0,8,1,12.5000
+residencia_grupo_combinado,e1-p02-h06---gr1,16,5,31.2500
+residencia_grupo_combinado,e1-p02-h07---gr0,15,3,20.0000
+residencia_grupo_combinado,e1-p02-h07---gr1,22,5,22.7273
+residencia_grupo_combinado,e1-p02-h08---gr0,21,11,52.3810
+residencia_grupo_combinado,e1-p02-h08---gr1,25,5,20.0000
+residencia_grupo_combinado,e1-p02-h09---gr0,23,7,30.4348
+residencia_grupo_combinado,e1-p02-h09---gr1,22,6,27.2727
+residencia_grupo_combinado,e1-p02-h10---gr0,19,6,31.5789
+residencia_grupo_combinado,e1-p02-h10---gr1,19,4,21.0526
+residencia_grupo_combinado,e1-p02-h11---gr0,21,3,14.2857
+residencia_grupo_combinado,e1-p02-h11---gr1,20,6,30.0000
+residencia_grupo_combinado,e1-p02-h12---gr0,18,4,22.2222
+residencia_grupo_combinado,e1-p02-h12---gr1,21,3,14.2857
+residencia_grupo_combinado,e1-p02-h13---gr0,19,4,21.0526
+residencia_grupo_combinado,e1-p02-h13---gr1,21,5,23.8095
+residencia_grupo_combinado,e1-p02-h14---gr0,17,2,11.7647
+residencia_grupo_combinado,e1-p02-h14---gr1,17,5,29.4118
+residencia_grupo_combinado,e1-p02-h15---gr0,16,4,25.0000
+residencia_grupo_combinado,e1-p02-h15---gr1,17,6,35.2941
+residencia_grupo_combinado,e1-p02-h16---gr0,19,3,15.7895
+residencia_grupo_combinado,e1-p02-h16---gr1,20,7,35.0000
+residencia_grupo_combinado,e1-p02-h17---gr0,26,6,23.0769
+residencia_grupo_combinado,e1-p02-h17---gr1,20,3,15.0000
+residencia_grupo_combinado,e1-p02-h18---gr0,11,3,27.2727
+residencia_grupo_combinado,e1-p02-h18---gr1,24,9,37.5000
+residencia_grupo_combinado,e1-p02-h19---gr0,16,5,31.2500
+residencia_grupo_combinado,e1-p02-h19---gr1,12,3,25.0000
+residencia_grupo_combinado,e1-p02-h20---gr0,24,6,25.0000
+residencia_grupo_combinado,e1-p02-h20---gr1,17,6,35.2941
+residencia_grupo_combinado,e1-p03-h01---gr0,20,7,35.0000
+residencia_grupo_combinado,e1-p03-h01---gr1,22,2,9.0909
+residencia_grupo_combinado,e1-p03-h02---gr0,18,6,33.3333
+residencia_grupo_combinado,e1-p03-h02---gr1,16,2,12.5000
+residencia_grupo_combinado,e1-p03-h03---gr0,17,2,11.7647
+residencia_grupo_combinado,e1-p03-h03---gr1,21,4,19.0476
+residencia_grupo_combinado,e1-p03-h04---gr0,21,5,23.8095
+residencia_grupo_combinado,e1-p03-h04---gr1,21,6,28.5714
+residencia_grupo_combinado,e1-p03-h05---gr0,27,8,29.6296
+residencia_grupo_combinado,e1-p03-h05---gr1,20,3,15.0000
+residencia_grupo_combinado,e1-p03-h06---gr0,14,3,21.4286
+residencia_grupo_combinado,e1-p03-h06---gr1,22,6,27.2727
+residencia_grupo_combinado,e1-p03-h07---gr0,22,6,27.2727
+residencia_grupo_combinado,e1-p03-h07---gr1,20,7,35.0000
+residencia_grupo_combinado,e1-p03-h08---gr0,16,6,37.5000
+residencia_grupo_combinado,e1-p03-h08---gr1,13,3,23.0769
+residencia_grupo_combinado,e1-p03-h09---gr0,14,3,21.4286
+residencia_grupo_combinado,e1-p03-h09---gr1,22,5,22.7273
+residencia_grupo_combinado,e1-p03-h10---gr0,19,6,31.5789
+residencia_grupo_combinado,e1-p03-h10---gr1,21,4,19.0476
+residencia_grupo_combinado,e1-p03-h11---gr0,15,2,13.3333
+residencia_grupo_combinado,e1-p03-h11---gr1,13,3,23.0769
+residencia_grupo_combinado,e1-p03-h12---gr0,12,2,16.6667
+residencia_grupo_combinado,e1-p03-h12---gr1,19,6,31.5789
+residencia_grupo_combinado,e1-p03-h13---gr0,17,4,23.5294
+residencia_grupo_combinado,e1-p03-h13---gr1,14,5,35.7143
+residencia_grupo_combinado,e1-p03-h14---gr0,11,4,36.3636
+residencia_grupo_combinado,e1-p03-h14---gr1,20,5,25.0000
+residencia_grupo_combinado,e1-p03-h15---gr0,23,5,21.7391
+residencia_grupo_combinado,e1-p03-h15---gr1,13,3,23.0769
+residencia_grupo_combinado,e1-p03-h16---gr0,13,1,7.6923
+residencia_grupo_combinado,e1-p03-h16---gr1,23,5,21.7391
+residencia_grupo_combinado,e1-p03-h17---gr0,15,6,40.0000
+residencia_grupo_combinado,e1-p03-h17---gr1,20,4,20.0000
+residencia_grupo_combinado,e1-p03-h18---gr0,27,6,22.2222
+residencia_grupo_combinado,e1-p03-h18---gr1,14,3,21.4286
+residencia_grupo_combinado,e1-p03-h19---gr0,20,5,25.0000
+residencia_grupo_combinado,e1-p03-h19---gr1,21,5,23.8095
+residencia_grupo_combinado,e1-p03-h20---gr0,13,5,38.4615
+residencia_grupo_combinado,e1-p03-h20---gr1,22,3,13.6364
+residencia_grupo_combinado,e1-p04-h01---gr0,21,9,42.8571
+residencia_grupo_combinado,e1-p04-h01---gr1,26,8,30.7692
+residencia_grupo_combinado,e1-p04-h02---gr0,17,5,29.4118
+residencia_grupo_combinado,e1-p04-h02---gr1,29,5,17.2414
+residencia_grupo_combinado,e1-p04-h03---gr0,28,4,14.2857
+residencia_grupo_combinado,e1-p04-h03---gr1,18,4,22.2222
+residencia_grupo_combinado,e1-p04-h04---gr0,16,8,50.0000
+residencia_grupo_combinado,e1-p04-h04---gr1,22,3,13.6364
+residencia_grupo_combinado,e1-p04-h05---gr0,23,8,34.7826
+residencia_grupo_combinado,e1-p04-h05---gr1,21,4,19.0476
+residencia_grupo_combinado,e1-p04-h06---gr0,16,3,18.7500
+residencia_grupo_combinado,e1-p04-h06---gr1,23,6,26.0870
+residencia_grupo_combinado,e1-p04-h07---gr0,21,5,23.8095
+residencia_grupo_combinado,e1-p04-h07---gr1,16,7,43.7500
+residencia_grupo_combinado,e1-p04-h08---gr0,18,4,22.2222
+residencia_grupo_combinado,e1-p04-h08---gr1,16,8,50.0000
+residencia_grupo_combinado,e1-p04-h09---gr0,20,3,15.0000
+residencia_grupo_combinado,e1-p04-h09---gr1,18,4,22.2222
+residencia_grupo_combinado,e1-p04-h10---gr0,14,5,35.7143
+residencia_grupo_combinado,e1-p04-h10---gr1,13,2,15.3846
+residencia_grupo_combinado,e1-p04-h11---gr0,19,3,15.7895
+residencia_grupo_combinado,e1-p04-h11---gr1,20,1,5.0000
+residencia_grupo_combinado,e1-p04-h12---gr0,14,4,28.5714
+residencia_grupo_combinado,e1-p04-h12---gr1,18,4,22.2222
+residencia_grupo_combinado,e1-p04-h13---gr0,22,5,22.7273
+residencia_grupo_combinado,e1-p04-h13---gr1,31,10,32.2581
+residencia_grupo_combinado,e1-p04-h14---gr0,15,1,6.6667
+residencia_grupo_combinado,e1-p04-h14---gr1,24,6,25.0000
+residencia_grupo_combinado,e1-p04-h15---gr0,20,3,15.0000
+residencia_grupo_combinado,e1-p04-h15---gr1,23,5,21.7391
+residencia_grupo_combinado,e1-p04-h16---gr0,26,9,34.6154
+residencia_grupo_combinado,e1-p04-h16---gr1,19,6,31.5789
+residencia_grupo_combinado,e1-p04-h17---gr0,24,8,33.3333
+residencia_grupo_combinado,e1-p04-h17---gr1,14,2,14.2857
+residencia_grupo_combinado,e1-p04-h18---gr0,20,6,30.0000
+residencia_grupo_combinado,e1-p04-h18---gr1,26,4,15.3846
+residencia_grupo_combinado,e1-p04-h19---gr0,14,5,35.7143
+residencia_grupo_combinado,e1-p04-h19---gr1,14,1,7.1429
+residencia_grupo_combinado,e1-p04-h20---gr0,18,4,22.2222
+residencia_grupo_combinado,e1-p04-h20---gr1,12,4,33.3333
+residencia_grupo_combinado,e2-p00-h01---gr0,14,2,14.2857
+residencia_grupo_combinado,e2-p00-h01---gr1,20,3,15.0000
+residencia_grupo_combinado,e2-p00-h02---gr0,15,8,53.3333
+residencia_grupo_combinado,e2-p00-h02---gr1,20,6,30.0000
+residencia_grupo_combinado,e2-p00-h03---gr0,29,13,44.8276
+residencia_grupo_combinado,e2-p00-h03---gr1,17,4,23.5294
+residencia_grupo_combinado,e2-p00-h04---gr0,25,5,20.0000
+residencia_grupo_combinado,e2-p00-h04---gr1,25,5,20.0000
+residencia_grupo_combinado,e2-p00-h05---gr0,12,2,16.6667
+residencia_grupo_combinado,e2-p00-h05---gr1,20,3,15.0000
+residencia_grupo_combinado,e2-p00-h06---gr0,16,7,43.7500
+residencia_grupo_combinado,e2-p00-h06---gr1,11,4,36.3636
+residencia_grupo_combinado,e2-p00-h07---gr0,24,5,20.8333
+residencia_grupo_combinado,e2-p00-h07---gr1,26,5,19.2308
+residencia_grupo_combinado,e2-p00-h08---gr0,17,4,23.5294
+residencia_grupo_combinado,e2-p00-h08---gr1,20,5,25.0000
+residencia_grupo_combinado,e2-p00-h09---gr0,18,5,27.7778
+residencia_grupo_combinado,e2-p00-h09---gr1,25,7,28.0000
+residencia_grupo_combinado,e2-p00-h10---gr0,20,7,35.0000
+residencia_grupo_combinado,e2-p00-h10---gr1,17,5,29.4118
+residencia_grupo_combinado,e2-p00-h11---gr0,18,7,38.8889
+residencia_grupo_combinado,e2-p00-h11---gr1,20,1,5.0000
+residencia_grupo_combinado,e2-p00-h12---gr0,11,1,9.0909
+residencia_grupo_combinado,e2-p00-h12---gr1,21,6,28.5714
+residencia_grupo_combinado,e2-p00-h13---gr0,19,6,31.5789
+residencia_grupo_combinado,e2-p00-h13---gr1,25,6,24.0000
+residencia_grupo_combinado,e2-p00-h14---gr0,18,7,38.8889
+residencia_grupo_combinado,e2-p00-h14---gr1,21,8,38.0952
+residencia_grupo_combinado,e2-p00-h15---gr0,23,5,21.7391
+residencia_grupo_combinado,e2-p00-h15---gr1,22,8,36.3636
+residencia_grupo_combinado,e2-p00-h16---gr0,19,3,15.7895
+residencia_grupo_combinado,e2-p00-h16---gr1,20,6,30.0000
+residencia_grupo_combinado,e2-p00-h17---gr0,21,5,23.8095
+residencia_grupo_combinado,e2-p00-h17---gr1,15,5,33.3333
+residencia_grupo_combinado,e2-p00-h18---gr0,24,9,37.5000
+residencia_grupo_combinado,e2-p00-h18---gr1,16,5,31.2500
+residencia_grupo_combinado,e2-p00-h19---gr0,18,5,27.7778
+residencia_grupo_combinado,e2-p00-h19---gr1,16,2,12.5000
+residencia_grupo_combinado,e2-p00-h20---gr0,26,8,30.7692
+residencia_grupo_combinado,e2-p00-h20---gr1,29,9,31.0345
+residencia_grupo_combinado,e2-p01-h01---gr0,23,5,21.7391
+residencia_grupo_combinado,e2-p01-h01---gr1,27,4,14.8148
+residencia_grupo_combinado,e2-p01-h02---gr0,19,4,21.0526
+residencia_grupo_combinado,e2-p01-h02---gr1,20,1,5.0000
+residencia_grupo_combinado,e2-p01-h03---gr0,21,5,23.8095
+residencia_grupo_combinado,e2-p01-h03---gr1,21,3,14.2857
+residencia_grupo_combinado,e2-p01-h04---gr0,20,6,30.0000
+residencia_grupo_combinado,e2-p01-h04---gr1,19,3,15.7895
+residencia_grupo_combinado,e2-p01-h05---gr0,32,11,34.3750
+residencia_grupo_combinado,e2-p01-h05---gr1,15,6,40.0000
+residencia_grupo_combinado,e2-p01-h06---gr0,13,2,15.3846
+residencia_grupo_combinado,e2-p01-h06---gr1,12,4,33.3333
+residencia_grupo_combinado,e2-p01-h07---gr0,21,9,42.8571
+residencia_grupo_combinado,e2-p01-h07---gr1,20,7,35.0000
+residencia_grupo_combinado,e2-p01-h08---gr0,21,4,19.0476
+residencia_grupo_combinado,e2-p01-h08---gr1,18,3,16.6667
+residencia_grupo_combinado,e2-p01-h09---gr0,25,6,24.0000
+residencia_grupo_combinado,e2-p01-h09---gr1,13,7,53.8462
+residencia_grupo_combinado,e2-p01-h10---gr0,20,6,30.0000
+residencia_grupo_combinado,e2-p01-h10---gr1,10,1,10.0000
+residencia_grupo_combinado,e2-p01-h11---gr0,25,6,24.0000
+residencia_grupo_combinado,e2-p01-h11---gr1,18,3,16.6667
+residencia_grupo_combinado,e2-p01-h12---gr0,25,11,44.0000
+residencia_grupo_combinado,e2-p01-h12---gr1,20,5,25.0000
+residencia_grupo_combinado,e2-p01-h13---gr0,16,4,25.0000
+residencia_grupo_combinado,e2-p01-h13---gr1,18,4,22.2222
+residencia_grupo_combinado,e2-p01-h14---gr0,17,6,35.2941
+residencia_grupo_combinado,e2-p01-h14---gr1,18,4,22.2222
+residencia_grupo_combinado,e2-p01-h15---gr0,15,3,20.0000
+residencia_grupo_combinado,e2-p01-h15---gr1,22,7,31.8182
+residencia_grupo_combinado,e2-p01-h16---gr0,14,2,14.2857
+residencia_grupo_combinado,e2-p01-h16---gr1,22,5,22.7273
+residencia_grupo_combinado,e2-p01-h17---gr0,21,9,42.8571
+residencia_grupo_combinado,e2-p01-h17---gr1,17,6,35.2941
+residencia_grupo_combinado,e2-p01-h18---gr0,18,6,33.3333
+residencia_grupo_combinado,e2-p01-h18---gr1,23,6,26.0870
+residencia_grupo_combinado,e2-p01-h19---gr0,22,9,40.9091
+residencia_grupo_combinado,e2-p01-h19---gr1,14,4,28.5714
+residencia_grupo_combinado,e2-p01-h20---gr0,26,12,46.1538
+residencia_grupo_combinado,e2-p01-h20---gr1,19,6,31.5789
+residencia_grupo_combinado,e2-p02-h01---gr0,19,4,21.0526
+residencia_grupo_combinado,e2-p02-h01---gr1,15,5,33.3333
+residencia_grupo_combinado,e2-p02-h02---gr0,20,5,25.0000
+residencia_grupo_combinado,e2-p02-h02---gr1,18,9,50.0000
+residencia_grupo_combinado,e2-p02-h03---gr0,20,5,25.0000
+residencia_grupo_combinado,e2-p02-h03---gr1,18,5,27.7778
+residencia_grupo_combinado,e2-p02-h04---gr0,16,5,31.2500
+residencia_grupo_combinado,e2-p02-h04---gr1,23,5,21.7391
+residencia_grupo_combinado,e2-p02-h05---gr0,21,6,28.5714
+residencia_grupo_combinado,e2-p02-h05---gr1,26,10,38.4615
+residencia_grupo_combinado,e2-p02-h06---gr0,14,3,21.4286
+residencia_grupo_combinado,e2-p02-h06---gr1,9,2,22.2222
+residencia_grupo_combinado,e2-p02-h07---gr0,14,1,7.1429
+residencia_grupo_combinado,e2-p02-h07---gr1,23,6,26.0870
+residencia_grupo_combinado,e2-p02-h08---gr0,21,5,23.8095
+residencia_grupo_combinado,e2-p02-h08---gr1,17,4,23.5294
+residencia_grupo_combinado,e2-p02-h09---gr0,14,7,50.0000
+residencia_grupo_combinado,e2-p02-h09---gr1,14,1,7.1429
+residencia_grupo_combinado,e2-p02-h10---gr0,26,6,23.0769
+residencia_grupo_combinado,e2-p02-h10---gr1,17,3,17.6471
+residencia_grupo_combinado,e2-p02-h11---gr0,28,5,17.8571
+residencia_grupo_combinado,e2-p02-h11---gr1,15,5,33.3333
+residencia_grupo_combinado,e2-p02-h12---gr0,12,5,41.6667
+residencia_grupo_combinado,e2-p02-h12---gr1,17,4,23.5294
+residencia_grupo_combinado,e2-p02-h13---gr0,20,6,30.0000
+residencia_grupo_combinado,e2-p02-h13---gr1,19,1,5.2632
+residencia_grupo_combinado,e2-p02-h14---gr0,31,10,32.2581
+residencia_grupo_combinado,e2-p02-h14---gr1,21,8,38.0952
+residencia_grupo_combinado,e2-p02-h15---gr0,14,3,21.4286
+residencia_grupo_combinado,e2-p02-h15---gr1,21,6,28.5714
+residencia_grupo_combinado,e2-p02-h16---gr0,24,5,20.8333
+residencia_grupo_combinado,e2-p02-h16---gr1,19,6,31.5789
+residencia_grupo_combinado,e2-p02-h17---gr0,16,3,18.7500
+residencia_grupo_combinado,e2-p02-h17---gr1,16,3,18.7500
+residencia_grupo_combinado,e2-p02-h18---gr0,16,4,25.0000
+residencia_grupo_combinado,e2-p02-h18---gr1,19,4,21.0526
+residencia_grupo_combinado,e2-p02-h19---gr0,18,6,33.3333
+residencia_grupo_combinado,e2-p02-h19---gr1,16,6,37.5000
+residencia_grupo_combinado,e2-p02-h20---gr0,21,5,23.8095
+residencia_grupo_combinado,e2-p02-h20---gr1,19,5,26.3158
+residencia_grupo_combinado,e2-p03-h01---gr0,20,6,30.0000
+residencia_grupo_combinado,e2-p03-h01---gr1,19,3,15.7895
+residencia_grupo_combinado,e2-p03-h02---gr0,18,3,16.6667
+residencia_grupo_combinado,e2-p03-h02---gr1,15,1,6.6667
+residencia_grupo_combinado,e2-p03-h03---gr0,17,5,29.4118
+residencia_grupo_combinado,e2-p03-h03---gr1,20,3,15.0000
+residencia_grupo_combinado,e2-p03-h04---gr0,23,7,30.4348
+residencia_grupo_combinado,e2-p03-h04---gr1,17,3,17.6471
+residencia_grupo_combinado,e2-p03-h05---gr0,17,4,23.5294
+residencia_grupo_combinado,e2-p03-h05---gr1,23,7,30.4348
+residencia_grupo_combinado,e2-p03-h06---gr0,17,3,17.6471
+residencia_grupo_combinado,e2-p03-h06---gr1,25,5,20.0000
+residencia_grupo_combinado,e2-p03-h07---gr0,20,3,15.0000
+residencia_grupo_combinado,e2-p03-h07---gr1,14,2,14.2857
+residencia_grupo_combinado,e2-p03-h08---gr0,21,8,38.0952
+residencia_grupo_combinado,e2-p03-h08---gr1,17,3,17.6471
+residencia_grupo_combinado,e2-p03-h09---gr0,21,3,14.2857
+residencia_grupo_combinado,e2-p03-h09---gr1,29,7,24.1379
+residencia_grupo_combinado,e2-p03-h10---gr0,14,4,28.5714
+residencia_grupo_combinado,e2-p03-h10---gr1,25,7,28.0000
+residencia_grupo_combinado,e2-p03-h11---gr0,18,6,33.3333
+residencia_grupo_combinado,e2-p03-h11---gr1,15,2,13.3333
+residencia_grupo_combinado,e2-p03-h12---gr0,21,9,42.8571
+residencia_grupo_combinado,e2-p03-h12---gr1,14,3,21.4286
+residencia_grupo_combinado,e2-p03-h13---gr0,18,4,22.2222
+residencia_grupo_combinado,e2-p03-h13---gr1,24,4,16.6667
+residencia_grupo_combinado,e2-p03-h14---gr0,22,3,13.6364
+residencia_grupo_combinado,e2-p03-h14---gr1,13,2,15.3846
+residencia_grupo_combinado,e2-p03-h15---gr0,24,8,33.3333
+residencia_grupo_combinado,e2-p03-h15---gr1,25,5,20.0000
+residencia_grupo_combinado,e2-p03-h16---gr0,22,8,36.3636
+residencia_grupo_combinado,e2-p03-h16---gr1,15,4,26.6667
+residencia_grupo_combinado,e2-p03-h17---gr0,15,6,40.0000
+residencia_grupo_combinado,e2-p03-h17---gr1,12,0,0.0000
+residencia_grupo_combinado,e2-p03-h18---gr0,18,5,27.7778
+residencia_grupo_combinado,e2-p03-h18---gr1,17,3,17.6471
+residencia_grupo_combinado,e2-p03-h19---gr0,21,6,28.5714
+residencia_grupo_combinado,e2-p03-h19---gr1,15,5,33.3333
+residencia_grupo_combinado,e2-p03-h20---gr0,21,3,14.2857
+residencia_grupo_combinado,e2-p03-h20---gr1,23,3,13.0435
+residencia_grupo_combinado,e2-p04-h01---gr0,22,6,27.2727
+residencia_grupo_combinado,e2-p04-h01---gr1,25,7,28.0000
+residencia_grupo_combinado,e2-p04-h02---gr0,21,6,28.5714
+residencia_grupo_combinado,e2-p04-h02---gr1,16,2,12.5000
+residencia_grupo_combinado,e2-p04-h03---gr0,21,5,23.8095
+residencia_grupo_combinado,e2-p04-h03---gr1,22,8,36.3636
+residencia_grupo_combinado,e2-p04-h04---gr0,19,6,31.5789
+residencia_grupo_combinado,e2-p04-h04---gr1,18,7,38.8889
+residencia_grupo_combinado,e2-p04-h05---gr0,19,7,36.8421
+residencia_grupo_combinado,e2-p04-h05---gr1,20,4,20.0000
+residencia_grupo_combinado,e2-p04-h06---gr0,17,5,29.4118
+residencia_grupo_combinado,e2-p04-h06---gr1,17,7,41.1765
+residencia_grupo_combinado,e2-p04-h07---gr0,16,6,37.5000
+residencia_grupo_combinado,e2-p04-h07---gr1,16,2,12.5000
+residencia_grupo_combinado,e2-p04-h08---gr0,19,10,52.6316
+residencia_grupo_combinado,e2-p04-h08---gr1,16,2,12.5000
+residencia_grupo_combinado,e2-p04-h09---gr0,20,9,45.0000
+residencia_grupo_combinado,e2-p04-h09---gr1,21,8,38.0952
+residencia_grupo_combinado,e2-p04-h10---gr0,18,4,22.2222
+residencia_grupo_combinado,e2-p04-h10---gr1,22,4,18.1818
+residencia_grupo_combinado,e2-p04-h11---gr0,22,4,18.1818
+residencia_grupo_combinado,e2-p04-h11---gr1,19,4,21.0526
+residencia_grupo_combinado,e2-p04-h12---gr0,20,6,30.0000
+residencia_grupo_combinado,e2-p04-h12---gr1,21,5,23.8095
+residencia_grupo_combinado,e2-p04-h13---gr0,19,7,36.8421
+residencia_grupo_combinado,e2-p04-h13---gr1,22,6,27.2727
+residencia_grupo_combinado,e2-p04-h14---gr0,16,5,31.2500
+residencia_grupo_combinado,e2-p04-h14---gr1,8,1,12.5000
+residencia_grupo_combinado,e2-p04-h15---gr0,19,5,26.3158
+residencia_grupo_combinado,e2-p04-h15---gr1,23,8,34.7826
+residencia_grupo_combinado,e2-p04-h16---gr0,20,7,35.0000
+residencia_grupo_combinado,e2-p04-h16---gr1,20,5,25.0000
+residencia_grupo_combinado,e2-p04-h17---gr0,18,5,27.7778
+residencia_grupo_combinado,e2-p04-h17---gr1,21,10,47.6190
+residencia_grupo_combinado,e2-p04-h18---gr0,20,5,25.0000
+residencia_grupo_combinado,e2-p04-h18---gr1,28,13,46.4286
+residencia_grupo_combinado,e2-p04-h19---gr0,17,2,11.7647
+residencia_grupo_combinado,e2-p04-h19---gr1,24,4,16.6667
+residencia_grupo_combinado,e2-p04-h20---gr0,17,6,35.2941
+residencia_grupo_combinado,e2-p04-h20---gr1,21,4,19.0476
+residencia_grupo_combinado,e3-p00-h01---gr0,16,7,43.7500
+residencia_grupo_combinado,e3-p00-h01---gr1,17,4,23.5294
+residencia_grupo_combinado,e3-p00-h02---gr0,14,4,28.5714
+residencia_grupo_combinado,e3-p00-h02---gr1,16,2,12.5000
+residencia_grupo_combinado,e3-p00-h03---gr0,15,3,20.0000
+residencia_grupo_combinado,e3-p00-h03---gr1,21,5,23.8095
+residencia_grupo_combinado,e3-p00-h04---gr0,21,8,38.0952
+residencia_grupo_combinado,e3-p00-h04---gr1,16,2,12.5000
+residencia_grupo_combinado,e3-p00-h05---gr0,22,6,27.2727
+residencia_grupo_combinado,e3-p00-h05---gr1,26,6,23.0769
+residencia_grupo_combinado,e3-p00-h06---gr0,14,3,21.4286
+residencia_grupo_combinado,e3-p00-h06---gr1,17,6,35.2941
+residencia_grupo_combinado,e3-p00-h07---gr0,14,3,21.4286
+residencia_grupo_combinado,e3-p00-h07---gr1,12,1,8.3333
+residencia_grupo_combinado,e3-p00-h08---gr0,19,4,21.0526
+residencia_grupo_combinado,e3-p00-h08---gr1,11,4,36.3636
+residencia_grupo_combinado,e3-p00-h09---gr0,27,9,33.3333
+residencia_grupo_combinado,e3-p00-h09---gr1,24,6,25.0000
+residencia_grupo_combinado,e3-p00-h10---gr0,15,5,33.3333
+residencia_grupo_combinado,e3-p00-h10---gr1,16,2,12.5000
+residencia_grupo_combinado,e3-p00-h11---gr0,24,4,16.6667
+residencia_grupo_combinado,e3-p00-h11---gr1,22,6,27.2727
+residencia_grupo_combinado,e3-p00-h12---gr0,23,10,43.4783
+residencia_grupo_combinado,e3-p00-h12---gr1,15,4,26.6667
+residencia_grupo_combinado,e3-p00-h13---gr0,17,4,23.5294
+residencia_grupo_combinado,e3-p00-h13---gr1,20,5,25.0000
+residencia_grupo_combinado,e3-p00-h14---gr0,20,6,30.0000
+residencia_grupo_combinado,e3-p00-h14---gr1,19,4,21.0526
+residencia_grupo_combinado,e3-p00-h15---gr0,18,3,16.6667
+residencia_grupo_combinado,e3-p00-h15---gr1,16,4,25.0000
+residencia_grupo_combinado,e3-p00-h16---gr0,16,4,25.0000
+residencia_grupo_combinado,e3-p00-h16---gr1,21,7,33.3333
+residencia_grupo_combinado,e3-p00-h17---gr0,21,2,9.5238
+residencia_grupo_combinado,e3-p00-h17---gr1,21,7,33.3333
+residencia_grupo_combinado,e3-p00-h18---gr0,18,7,38.8889
+residencia_grupo_combinado,e3-p00-h18---gr1,19,4,21.0526
+residencia_grupo_combinado,e3-p00-h19---gr0,26,3,11.5385
+residencia_grupo_combinado,e3-p00-h19---gr1,23,6,26.0870
+residencia_grupo_combinado,e3-p00-h20---gr0,18,7,38.8889
+residencia_grupo_combinado,e3-p00-h20---gr1,12,3,25.0000
+residencia_grupo_combinado,e3-p01-h01---gr0,18,7,38.8889
+residencia_grupo_combinado,e3-p01-h01---gr1,19,6,31.5789
+residencia_grupo_combinado,e3-p01-h02---gr0,24,9,37.5000
+residencia_grupo_combinado,e3-p01-h02---gr1,16,4,25.0000
+residencia_grupo_combinado,e3-p01-h03---gr0,17,2,11.7647
+residencia_grupo_combinado,e3-p01-h03---gr1,20,8,40.0000
+residencia_grupo_combinado,e3-p01-h04---gr0,19,3,15.7895
+residencia_grupo_combinado,e3-p01-h04---gr1,19,5,26.3158
+residencia_grupo_combinado,e3-p01-h05---gr0,23,4,17.3913
+residencia_grupo_combinado,e3-p01-h05---gr1,16,3,18.7500
+residencia_grupo_combinado,e3-p01-h06---gr0,17,4,23.5294
+residencia_grupo_combinado,e3-p01-h06---gr1,21,5,23.8095
+residencia_grupo_combinado,e3-p01-h07---gr0,21,3,14.2857
+residencia_grupo_combinado,e3-p01-h07---gr1,21,7,33.3333
+residencia_grupo_combinado,e3-p01-h08---gr0,26,8,30.7692
+residencia_grupo_combinado,e3-p01-h08---gr1,18,5,27.7778
+residencia_grupo_combinado,e3-p01-h09---gr0,21,3,14.2857
+residencia_grupo_combinado,e3-p01-h09---gr1,21,5,23.8095
+residencia_grupo_combinado,e3-p01-h10---gr0,31,6,19.3548
+residencia_grupo_combinado,e3-p01-h10---gr1,23,5,21.7391
+residencia_grupo_combinado,e3-p01-h11---gr0,23,8,34.7826
+residencia_grupo_combinado,e3-p01-h11---gr1,22,8,36.3636
+residencia_grupo_combinado,e3-p01-h12---gr0,19,2,10.5263
+residencia_grupo_combinado,e3-p01-h12---gr1,20,5,25.0000
+residencia_grupo_combinado,e3-p01-h13---gr0,28,8,28.5714
+residencia_grupo_combinado,e3-p01-h13---gr1,12,4,33.3333
+residencia_grupo_combinado,e3-p01-h14---gr0,19,5,26.3158
+residencia_grupo_combinado,e3-p01-h14---gr1,24,5,20.8333
+residencia_grupo_combinado,e3-p01-h15---gr0,22,9,40.9091
+residencia_grupo_combinado,e3-p01-h15---gr1,18,6,33.3333
+residencia_grupo_combinado,e3-p01-h16---gr0,19,6,31.5789
+residencia_grupo_combinado,e3-p01-h16---gr1,15,6,40.0000
+residencia_grupo_combinado,e3-p01-h17---gr0,16,7,43.7500
+residencia_grupo_combinado,e3-p01-h17---gr1,16,5,31.2500
+residencia_grupo_combinado,e3-p01-h18---gr0,23,7,30.4348
+residencia_grupo_combinado,e3-p01-h18---gr1,23,3,13.0435
+residencia_grupo_combinado,e3-p01-h19---gr0,11,4,36.3636
+residencia_grupo_combinado,e3-p01-h19---gr1,21,5,23.8095
+residencia_grupo_combinado,e3-p01-h20---gr0,14,7,50.0000
+residencia_grupo_combinado,e3-p01-h20---gr1,24,3,12.5000
+residencia_grupo_combinado,e3-p02-h01---gr0,23,7,30.4348
+residencia_grupo_combinado,e3-p02-h01---gr1,16,5,31.2500
+residencia_grupo_combinado,e3-p02-h02---gr0,26,7,26.9231
+residencia_grupo_combinado,e3-p02-h02---gr1,17,5,29.4118
+residencia_grupo_combinado,e3-p02-h03---gr0,18,5,27.7778
+residencia_grupo_combinado,e3-p02-h03---gr1,14,4,28.5714
+residencia_grupo_combinado,e3-p02-h04---gr0,23,5,21.7391
+residencia_grupo_combinado,e3-p02-h04---gr1,18,4,22.2222
+residencia_grupo_combinado,e3-p02-h05---gr0,16,3,18.7500
+residencia_grupo_combinado,e3-p02-h05---gr1,23,6,26.0870
+residencia_grupo_combinado,e3-p02-h06---gr0,14,4,28.5714
+residencia_grupo_combinado,e3-p02-h06---gr1,24,9,37.5000
+residencia_grupo_combinado,e3-p02-h07---gr0,18,3,16.6667
+residencia_grupo_combinado,e3-p02-h07---gr1,26,10,38.4615
+residencia_grupo_combinado,e3-p02-h08---gr0,15,5,33.3333
+residencia_grupo_combinado,e3-p02-h08---gr1,24,6,25.0000
+residencia_grupo_combinado,e3-p02-h09---gr0,22,5,22.7273
+residencia_grupo_combinado,e3-p02-h09---gr1,19,6,31.5789
+residencia_grupo_combinado,e3-p02-h10---gr0,20,4,20.0000
+residencia_grupo_combinado,e3-p02-h10---gr1,17,6,35.2941
+residencia_grupo_combinado,e3-p02-h11---gr0,29,5,17.2414
+residencia_grupo_combinado,e3-p02-h11---gr1,20,6,30.0000
+residencia_grupo_combinado,e3-p02-h12---gr0,13,5,38.4615
+residencia_grupo_combinado,e3-p02-h12---gr1,17,2,11.7647
+residencia_grupo_combinado,e3-p02-h13---gr0,17,3,17.6471
+residencia_grupo_combinado,e3-p02-h13---gr1,20,6,30.0000
+residencia_grupo_combinado,e3-p02-h14---gr0,14,4,28.5714
+residencia_grupo_combinado,e3-p02-h14---gr1,16,3,18.7500
+residencia_grupo_combinado,e3-p02-h15---gr0,20,5,25.0000
+residencia_grupo_combinado,e3-p02-h15---gr1,17,6,35.2941
+residencia_grupo_combinado,e3-p02-h16---gr0,22,6,27.2727
+residencia_grupo_combinado,e3-p02-h16---gr1,25,9,36.0000
+residencia_grupo_combinado,e3-p02-h17---gr0,21,1,4.7619
+residencia_grupo_combinado,e3-p02-h17---gr1,22,6,27.2727
+residencia_grupo_combinado,e3-p02-h18---gr0,21,5,23.8095
+residencia_grupo_combinado,e3-p02-h18---gr1,14,5,35.7143
+residencia_grupo_combinado,e3-p02-h19---gr0,31,6,19.3548
+residencia_grupo_combinado,e3-p02-h19---gr1,17,5,29.4118
+residencia_grupo_combinado,e3-p02-h20---gr0,20,3,15.0000
+residencia_grupo_combinado,e3-p02-h20---gr1,18,6,33.3333
+residencia_grupo_combinado,e3-p03-h01---gr0,23,9,39.1304
+residencia_grupo_combinado,e3-p03-h01---gr1,27,7,25.9259
+residencia_grupo_combinado,e3-p03-h02---gr0,23,7,30.4348
+residencia_grupo_combinado,e3-p03-h02---gr1,20,6,30.0000
+residencia_grupo_combinado,e3-p03-h03---gr0,17,8,47.0588
+residencia_grupo_combinado,e3-p03-h03---gr1,13,4,30.7692
+residencia_grupo_combinado,e3-p03-h04---gr0,24,10,41.6667
+residencia_grupo_combinado,e3-p03-h04---gr1,14,4,28.5714
+residencia_grupo_combinado,e3-p03-h05---gr0,15,4,26.6667
+residencia_grupo_combinado,e3-p03-h05---gr1,13,3,23.0769
+residencia_grupo_combinado,e3-p03-h06---gr0,18,3,16.6667
+residencia_grupo_combinado,e3-p03-h06---gr1,23,7,30.4348
+residencia_grupo_combinado,e3-p03-h07---gr0,16,6,37.5000
+residencia_grupo_combinado,e3-p03-h07---gr1,16,3,18.7500
+residencia_grupo_combinado,e3-p03-h08---gr0,21,3,14.2857
+residencia_grupo_combinado,e3-p03-h08---gr1,21,2,9.5238
+residencia_grupo_combinado,e3-p03-h09---gr0,20,3,15.0000
+residencia_grupo_combinado,e3-p03-h09---gr1,14,7,50.0000
+residencia_grupo_combinado,e3-p03-h10---gr0,23,5,21.7391
+residencia_grupo_combinado,e3-p03-h10---gr1,16,7,43.7500
+residencia_grupo_combinado,e3-p03-h11---gr0,15,3,20.0000
+residencia_grupo_combinado,e3-p03-h11---gr1,14,4,28.5714
+residencia_grupo_combinado,e3-p03-h12---gr0,19,8,42.1053
+residencia_grupo_combinado,e3-p03-h12---gr1,13,6,46.1538
+residencia_grupo_combinado,e3-p03-h13---gr0,18,7,38.8889
+residencia_grupo_combinado,e3-p03-h13---gr1,21,2,9.5238
+residencia_grupo_combinado,e3-p03-h14---gr0,19,7,36.8421
+residencia_grupo_combinado,e3-p03-h14---gr1,21,3,14.2857
+residencia_grupo_combinado,e3-p03-h15---gr0,22,3,13.6364
+residencia_grupo_combinado,e3-p03-h15---gr1,26,8,30.7692
+residencia_grupo_combinado,e3-p03-h16---gr0,27,4,14.8148
+residencia_grupo_combinado,e3-p03-h16---gr1,11,3,27.2727
+residencia_grupo_combinado,e3-p03-h17---gr0,20,7,35.0000
+residencia_grupo_combinado,e3-p03-h17---gr1,27,11,40.7407
+residencia_grupo_combinado,e3-p03-h18---gr0,21,9,42.8571
+residencia_grupo_combinado,e3-p03-h18---gr1,17,5,29.4118
+residencia_grupo_combinado,e3-p03-h19---gr0,27,6,22.2222
+residencia_grupo_combinado,e3-p03-h19---gr1,16,6,37.5000
+residencia_grupo_combinado,e3-p03-h20---gr0,30,6,20.0000
+residencia_grupo_combinado,e3-p03-h20---gr1,26,7,26.9231
+residencia_grupo_combinado,e3-p04-h01---gr0,18,6,33.3333
+residencia_grupo_combinado,e3-p04-h01---gr1,22,5,22.7273
+residencia_grupo_combinado,e3-p04-h02---gr0,21,3,14.2857
+residencia_grupo_combinado,e3-p04-h02---gr1,22,6,27.2727
+residencia_grupo_combinado,e3-p04-h03---gr0,22,7,31.8182
+residencia_grupo_combinado,e3-p04-h03---gr1,17,1,5.8824
+residencia_grupo_combinado,e3-p04-h04---gr0,16,3,18.7500
+residencia_grupo_combinado,e3-p04-h04---gr1,20,7,35.0000
+residencia_grupo_combinado,e3-p04-h05---gr0,11,4,36.3636
+residencia_grupo_combinado,e3-p04-h05---gr1,16,1,6.2500
+residencia_grupo_combinado,e3-p04-h06---gr0,18,3,16.6667
+residencia_grupo_combinado,e3-p04-h06---gr1,21,4,19.0476
+residencia_grupo_combinado,e3-p04-h07---gr0,15,2,13.3333
+residencia_grupo_combinado,e3-p04-h07---gr1,19,6,31.5789
+residencia_grupo_combinado,e3-p04-h08---gr0,20,6,30.0000
+residencia_grupo_combinado,e3-p04-h08---gr1,16,5,31.2500
+residencia_grupo_combinado,e3-p04-h09---gr0,26,5,19.2308
+residencia_grupo_combinado,e3-p04-h09---gr1,13,6,46.1538
+residencia_grupo_combinado,e3-p04-h10---gr0,14,1,7.1429
+residencia_grupo_combinado,e3-p04-h10---gr1,15,2,13.3333
+residencia_grupo_combinado,e3-p04-h11---gr0,30,9,30.0000
+residencia_grupo_combinado,e3-p04-h11---gr1,23,9,39.1304
+residencia_grupo_combinado,e3-p04-h12---gr0,16,5,31.2500
+residencia_grupo_combinado,e3-p04-h12---gr1,18,3,16.6667
+residencia_grupo_combinado,e3-p04-h13---gr0,29,7,24.1379
+residencia_grupo_combinado,e3-p04-h13---gr1,20,5,25.0000
+residencia_grupo_combinado,e3-p04-h14---gr0,20,3,15.0000
+residencia_grupo_combinado,e3-p04-h14---gr1,22,5,22.7273
+residencia_grupo_combinado,e3-p04-h15---gr0,23,12,52.1739
+residencia_grupo_combinado,e3-p04-h15---gr1,17,6,35.2941
+residencia_grupo_combinado,e3-p04-h16---gr0,14,5,35.7143
+residencia_grupo_combinado,e3-p04-h16---gr1,25,5,20.0000
+residencia_grupo_combinado,e3-p04-h17---gr0,21,6,28.5714
+residencia_grupo_combinado,e3-p04-h17---gr1,15,6,40.0000
+residencia_grupo_combinado,e3-p04-h18---gr0,17,4,23.5294
+residencia_grupo_combinado,e3-p04-h18---gr1,14,5,35.7143
+residencia_grupo_combinado,e3-p04-h19---gr0,19,8,42.1053
+residencia_grupo_combinado,e3-p04-h19---gr1,18,6,33.3333
+residencia_grupo_combinado,e3-p04-h20---gr0,25,7,28.0000
+residencia_grupo_combinado,e3-p04-h20---gr1,18,4,22.2222
