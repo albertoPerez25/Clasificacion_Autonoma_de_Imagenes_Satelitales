@@ -1,10 +1,11 @@
-// si o si
-comentarios
+Cosas a implmentar dentro de la practica 2
 
-// siguientes paso
-satifcaccion con nota
-horas de trabajo con satisfaccion y nota
-horas de moodle con satifcaccion y nota
+1. Implementar fine tuning dentro de una funcion/pipeline/crosvalidation que se hace con...
+5. Seleccion de hiperparametros GridSearchCV (lo que pone en el 1) 
 
-// puede
-residencia con grupo de trabajo
+4. Para la validacion cruzada de modelos tenemos que usar RepeatedStratifiedKFold 
+
+
+2. Tenemos que usar el GausianBN CategoricalNB KNN DecisionTreeClasifier
+3. De ensemble tenemos que usar BaggingClasifier RandomForestClasifier ADABoostClasifier GradienBoostingClasifier HistGradientBoostingClasifier
+XGBoost y LightGBM 
