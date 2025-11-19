@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para HGB_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para HGB_test completado en 23.08 segundos.
+
+Mejores Parámetros encontrados para HGB_test:
+{'modelo__max_iter': 100}
+
+Mejor Puntuación Media CV (f1): 0.6346
+
+--- Resumen de Resultados GridSearchCV para HGB_test ---
+
+   param_modelo__max_iter  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0                     100       7.329167         0.748143            0.832295      0.634587             0.934306       0.866962                   1             1       1.91451         0.16397           0.004219     0.009092            0.003374      0.007077
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para HGB_test ---

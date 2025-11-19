@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para GB_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para GB_test completado en 81.48 segundos.
+
+Mejores Parámetros encontrados para GB_test:
+{'modelo__learning_rate': 0.1, 'modelo__n_estimators': 100}
+
+Mejor Puntuación Media CV (f1): 0.6420
+
+--- Resumen de Resultados GridSearchCV para GB_test ---
+
+   param_modelo__learning_rate  param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0                          0.1                         100      29.023499         0.593593            0.838456      0.641984             0.909029       0.810527                   1             1      5.175343        0.192585           0.003908     0.008645             0.00334      0.007982
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para GB_test ---

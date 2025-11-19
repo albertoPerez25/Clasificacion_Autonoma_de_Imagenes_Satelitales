@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para XGB_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para XGB_test completado en 20.33 segundos.
+
+Mejores Parámetros encontrados para XGB_test:
+{'modelo__max_depth': 3, 'modelo__n_estimators': 100}
+
+Mejor Puntuación Media CV (f1): 0.6335
+
+--- Resumen de Resultados GridSearchCV para XGB_test ---
+
+   param_modelo__max_depth  param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0                        3                         100       6.462592         0.710109            0.833163      0.633546             0.920744       0.837916                   1             1      1.711266        0.172859           0.003617     0.008062            0.002887      0.006495
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para XGB_test ---
