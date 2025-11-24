@@ -1,16 +1,16 @@
 --- Iniciando GridSearchCV para KNN_test ---
 Fitting 25 folds for each of 1 candidates, totalling 25 fits
-GridSearchCV para KNN_test completado en 42.34 segundos.
+GridSearchCV para KNN_test completado en 43.56 segundos.
 
 Mejores Parámetros encontrados para KNN_test:
 {'modelo__n_neighbors': 5}
 
-Mejor Puntuación Media CV (f1): 0.6391
+Mejor Puntuación Media CV (f1): 0.5917
 
 --- Resumen de Resultados GridSearchCV para KNN_test ---
 
    param_modelo__n_neighbors  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-0                          5       8.163032         2.960263            0.834051      0.639071             0.885194       0.751792                   1             1      2.610024        0.751585           0.003673     0.008844            0.001221      0.002988
+0                          5       2.667028         1.920323             0.80957      0.591658             0.951602       0.903897                   1             1      0.099071        0.212848           0.003752     0.007874            0.000985       0.00194
 
 --- FIN: Resumen de resultados ---
 

@@ -1,16 +1,16 @@
 --- Iniciando GridSearchCV para SVC_test ---
 Fitting 25 folds for each of 1 candidates, totalling 25 fits
-GridSearchCV para SVC_test completado en 524.46 segundos.
+GridSearchCV para SVC_test completado en 390.87 segundos.
 
 Mejores Parámetros encontrados para SVC_test:
-{'svc_classifier__C': 1.0, 'svc_classifier__kernel': 'rbf'}
+{'modelo__C': 1.0, 'modelo__kernel': 'rbf'}
 
-Mejor Puntuación Media CV (f1): 0.6498
+Mejor Puntuación Media CV (f1): 0.5710
 
 --- Resumen de Resultados GridSearchCV para SVC_test ---
 
-   param_svc_classifier__C param_svc_classifier__kernel  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-0                      1.0                          rbf     224.388206         3.275273            0.843695      0.649803              0.91313       0.817606                   1             1     75.274508        0.962713           0.003261     0.007348            0.005831       0.01396
+   param_modelo__C param_modelo__kernel  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0              1.0                  rbf      60.591798         6.127489            0.810497       0.57095             0.942555       0.883937                   1             1     10.997149        0.491538           0.003595      0.00965            0.000704        0.0015
 
 --- FIN: Resumen de resultados ---
 

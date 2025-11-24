@@ -1,6 +1,6 @@
 --- Iniciando GridSearchCV para BAG_test ---
 Fitting 25 folds for each of 1 candidates, totalling 25 fits
-GridSearchCV para BAG_test completado en 76.52 segundos.
+GridSearchCV para BAG_test completado en 117.81 segundos.
 
 Mejores Parámetros encontrados para BAG_test:
 {'modelo__n_estimators': 50}
@@ -10,7 +10,7 @@ Mejor Puntuación Media CV (f1): 0.6352
 --- Resumen de Resultados GridSearchCV para BAG_test ---
 
    param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-0                          50      34.359604         0.774233            0.833745      0.635194             0.999652       0.999325                   1             1       7.81948        0.178349            0.00399     0.008535            0.000095      0.000184
+0                          50      30.351669         0.842816            0.833745      0.635194             0.999652       0.999325                   1             1      5.302156          0.3819            0.00399     0.008535            0.000095      0.000184
 
 --- FIN: Resumen de resultados ---
 

@@ -1,16 +1,16 @@
 --- Iniciando GridSearchCV para LGBM_test ---
 Fitting 25 folds for each of 1 candidates, totalling 25 fits
-GridSearchCV para LGBM_test completado en 1228.62 segundos.
+GridSearchCV para LGBM_test completado en 31.85 segundos.
 
 Mejores Parámetros encontrados para LGBM_test:
 {'modelo__n_estimators': 50, 'modelo__num_leaves': 31}
 
-Mejor Puntuación Media CV (f1): 0.6412
+Mejor Puntuación Media CV (f1): 0.6422
 
 --- Resumen de Resultados GridSearchCV para LGBM_test ---
 
    param_modelo__n_estimators  param_modelo__num_leaves  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-0                          50                        31     656.963274         0.947069            0.835363      0.641239             0.920102       0.836788                   1             1    154.639599        0.437937           0.003874     0.008546            0.002616      0.005946
+0                          50                        31       5.628372         0.531788            0.835482      0.642183             0.918028       0.832581                   1             1      0.750789        0.058736           0.003707     0.008478            0.003062      0.006954
 
 --- FIN: Resumen de resultados ---
 
