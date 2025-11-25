@@ -1,23 +1,23 @@
 --- Iniciando GridSearchCV para KNN ---
 Fitting 25 folds for each of 8 candidates, totalling 200 fits
-GridSearchCV para KNN completado en 454.89 segundos.
+GridSearchCV para KNN completado en 540.81 segundos.
 
 Mejores Parámetros encontrados para KNN:
-{'modelo__metric': 'minkowski', 'modelo__n_neighbors': 11, 'modelo__p': 2, 'modelo__weights': 'distance', 'pca__n_components': 0.95}
+{'modelo__metric': 'minkowski', 'modelo__n_neighbors': 11, 'modelo__p': 2, 'modelo__weights': 'uniform', 'pca__n_components': 0.95}
 
-Mejor Puntuación Media CV (f1): 0.6433
+Mejor Puntuación Media CV (f1): 0.6082
 
 --- Resumen de Resultados GridSearchCV para KNN ---
 
   param_modelo__metric  param_modelo__n_neighbors  param_modelo__p param_modelo__weights  param_pca__n_components  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-7            minkowski                         11                2              distance                     0.95       4.108816         4.464071            0.843759      0.643279             1.000000       1.000000                   4             1      0.794150        0.744259           0.003575     0.009001            0.000000      0.000000
-6            minkowski                         11                2               uniform                     0.95       4.324419         4.756316            0.844356      0.643256             0.872030       0.708851                   2             2      0.788796        0.897040           0.003588     0.009068            0.000969      0.002637
-5            minkowski                         11                1              distance                     0.95       4.452663         9.719320            0.844035      0.641583             1.000000       1.000000                   3             3      1.114977        1.108743           0.003232     0.009066            0.000000      0.000000
-4            minkowski                         11                1               uniform                     0.95       4.165145        10.603949            0.844494      0.641381             0.871569       0.706026                   1             4      0.881099        1.117846           0.002957     0.008597            0.001144      0.002695
-2            minkowski                          5                2               uniform                     0.95       4.483430         4.457127            0.834076      0.639121             0.885191       0.751777                   5             5      0.746216        0.605670           0.003624     0.008748            0.001211      0.002958
-3            minkowski                          5                2              distance                     0.95       4.517932         4.263805            0.833341      0.638701             1.000000       1.000000                   7             6      0.469860        0.574041           0.003687     0.008942            0.000000      0.000000
-0            minkowski                          5                1               uniform                     0.95       8.395782         7.588446            0.833790      0.636689             0.884728       0.749863                   6             7      3.004802        1.628947           0.003739     0.008586            0.001040      0.002585
-1            minkowski                          5                1              distance                     0.95       4.537420         8.074437            0.833321      0.636599             1.000000       1.000000                   8             8      1.066033        1.322289           0.003851     0.008876            0.000000      0.000000
+6            minkowski                         11                2               uniform                     0.95       3.899345         5.489214            0.819687      0.608231             0.944131       0.887686                   1             1      0.523694        1.008661           0.003697     0.007625            0.000921      0.001829
+7            minkowski                         11                2              distance                     0.95       4.126774         5.808445            0.819129      0.606854             1.000000       1.000000                   2             2      0.456865        0.826443           0.003742     0.007817            0.000000      0.000000
+4            minkowski                         11                1               uniform                     0.95       3.715205        12.872011            0.814049      0.592156             0.944649       0.888526                   3             3      0.453772        1.685796           0.003454     0.007551            0.000924      0.001844
+2            minkowski                          5                2               uniform                     0.95       3.871757         4.689797            0.809614      0.591785             0.951604       0.903896                   5             4      0.443602        0.704766           0.003824     0.007940            0.000978      0.001923
+3            minkowski                          5                2              distance                     0.95       4.018968         4.929553            0.809259      0.591119             1.000000       1.000000                   6             5      0.490729        0.785609           0.003877     0.008059            0.000000      0.000000
+5            minkowski                         11                1              distance                     0.95       3.760903        12.322101            0.813284      0.590336             1.000000       1.000000                   4             6      0.345853        1.606897           0.003503     0.007536            0.000000      0.000000
+0            minkowski                          5                1               uniform                     0.95       6.119458        10.732458            0.803354      0.574899             0.952092       0.904732                   7             7      1.929674        1.473328           0.003484     0.007953            0.000942      0.001855
+1            minkowski                          5                1              distance                     0.95       3.800724        10.546092            0.802979      0.574396             1.000000       1.000000                   8             8      0.439965        1.689601           0.003536     0.008087            0.000000      0.000000
 
 --- FIN: Resumen de resultados ---
 

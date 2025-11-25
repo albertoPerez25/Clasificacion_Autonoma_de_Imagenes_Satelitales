@@ -1,0 +1,24 @@
+--- Iniciando GridSearchCV para ET ---
+Fitting 25 folds for each of 8 candidates, totalling 200 fits
+GridSearchCV para ET completado en 209.34 segundos.
+
+Mejores Parámetros encontrados para ET:
+{'modelo__criterion': 'gini', 'modelo__max_depth': None, 'modelo__min_samples_split': 5, 'modelo__n_estimators': 200}
+
+Mejor Puntuación Media CV (f1): 0.6514
+
+--- Resumen de Resultados GridSearchCV para ET ---
+
+  param_modelo__criterion param_modelo__max_depth  param_modelo__min_samples_split  param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+3                    gini                    None                                5                         200       9.943261         2.526879            0.844711      0.651362             0.999414       0.998863                   5             1      1.268957        1.317327           0.003591     0.007703            0.000122      0.000237
+1                    gini                    None                                2                         200      11.269532         2.559893            0.844602      0.651263             1.000000       1.000000                   6             2      2.462030        1.283788           0.003966     0.008582            0.000000      0.000000
+2                    gini                    None                                5                         100       7.735511         1.819232            0.844282      0.650912             0.999334       0.998708                   7             3      1.261966        0.448531           0.004037     0.008442            0.000123      0.000239
+0                    gini                    None                                2                         100       9.774311         2.428573            0.843976      0.649852             1.000000       1.000000                   8             4      1.581691        1.168741           0.003857     0.008407            0.000000      0.000000
+7                    gini                      20                                5                         200       8.548669         1.869941            0.849634      0.649512             0.944255       0.879920                   1             5      1.500098        0.655529           0.003358     0.007783            0.002562      0.006243
+5                    gini                      20                                2                         200       9.123571         2.223881            0.849614      0.649277             0.953755       0.901570                   2             6      1.581391        0.647429           0.003459     0.008160            0.002401      0.005625
+4                    gini                      20                                2                         100       7.869484         1.478897            0.849377      0.648918             0.953601       0.901226                   3             7      1.194705        0.367080           0.003354     0.008142            0.002594      0.006086
+6                    gini                      20                                5                         100       7.598815         1.512154            0.849318      0.648870             0.944211       0.879884                   4             8      1.278360        0.370845           0.003440     0.007774            0.002422      0.005898
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para ET ---
