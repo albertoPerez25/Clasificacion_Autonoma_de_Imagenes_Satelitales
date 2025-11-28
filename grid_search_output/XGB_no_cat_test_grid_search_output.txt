@@ -1,17 +1,2 @@
 --- Iniciando GridSearchCV para XGB_no_cat_test ---
 Fitting 25 folds for each of 1 candidates, totalling 25 fits
-GridSearchCV para XGB_no_cat_test completado en 3.09 segundos.
-
-Mejores Parámetros encontrados para XGB_no_cat_test:
-{'modelo__max_depth': 3, 'modelo__n_estimators': 100}
-
-Mejor Puntuación Media CV (f1): 0.2230
-
---- Resumen de Resultados GridSearchCV para XGB_no_cat_test ---
-
-   param_modelo__max_depth  param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
-0                        3                         100       0.155236         0.020707            0.766102      0.223022             0.773568       0.248519                   1             1      0.016522        0.005487            0.00212     0.013281            0.000645      0.005185
-
---- FIN: Resumen de resultados ---
-
---- Fin de la optimización para XGB_no_cat_test ---
