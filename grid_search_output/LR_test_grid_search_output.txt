@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para LR_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para LR_test completado en 24.47 segundos.
+
+Mejores Parámetros encontrados para LR_test:
+{'modelo__C': 1.0, 'modelo__solver': 'lbfgs'}
+
+Mejor Puntuación Media CV (f1): 0.5459
+
+--- Resumen de Resultados GridSearchCV para LR_test ---
+
+   param_modelo__C param_modelo__solver  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0              1.0                lbfgs       2.784458         0.641948            0.800266      0.545873               0.9319       0.859961                   1             1      0.200604        0.087221           0.003385     0.007662            0.001005      0.002166
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para LR_test ---

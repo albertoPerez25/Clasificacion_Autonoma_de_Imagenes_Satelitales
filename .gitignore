@@ -210,3 +210,6 @@ __marimo__/
 .vscode/settings.json
 .vscode/*
 .DS_Store
+
+saved_models/ET_test.joblib
+saved_models/ET.joblib

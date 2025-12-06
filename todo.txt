@@ -1,10 +1,146 @@
-// si o si
-comentarios
+Cosas a implmentar dentro de la practica 2
 
-// siguientes paso
-satifcaccion con nota
-horas de trabajo con satisfaccion y nota
-horas de moodle con satifcaccion y nota
+1. Implementar fine tuning dentro de una funcion/pipeline/crosvalidation que se hace con...
+5. Seleccion de hiperparametros GridSearchCV (lo que pone en el 1) 
 
-// puede
-residencia con grupo de trabajo
+4. Para la validacion cruzada de modelos tenemos que usar RepeatedStratifiedKFold 
+
+
+2. Tenemos que usar el GausianBN CategoricalNB KNN DecisionTreeClasifier
+3. De ensemble tenemos que usar BaggingClasifier RandomForestClasifier ADABoostClasifier GradienBoostingClasifier HistGradientBoostingClasifier
+XGBoost y LightGBM 
+
+CODIGO ANTIGUO PREPROCESSOR:
+preprocessor_DT = ColumnTransformer(
+    transformers=[
+        # Aplicamos la limpieza de texto a las categóricas
+        ('categorical', text_pipeline, categorical_cols_DT), 
+
+        ('categorical_mode', text_pipeline_mode, categorical_mode_cols_DT),
+        
+        # Aplicamos la combinación de 0 y Desconocido en una sola
+        ('combinar_0_y_desc', unify_0_NaN_pipeline, ["superados_a1","trabaja"]),
+
+        # Añade una columna con la media de nota_s1 para el grupo de trabajo al que pertenece. Empeora el rendimiento.
+        #'''('group_mean_encoder', group_mean_pipeline, ["grupo_trabajo","nota_s1"]),'''
+
+        # Aplicamos la imputación a numéricas
+        ('numerical', numerical_pipeline_DT, numerical_cols_DT),
+
+        # Aplicamos la imputación a las numéricas que queremos mantener la falta de información
+        ('num_mnar', numerical_pipeline_mnar_DT, numerical_mnar_cols_DT),
+
+        # Aplicamos preprocesamiento a las fechas. Empeora el rendimiento en Kaggle y no lo mejora en train
+        #'''('date', date_pipeline, date_cols)'''  
+
+        # Añadimos una columna adicional para indicar NaNs. Esto es algo redundante pues también lo hace SimpleEncoder, 
+        # pero encontramos que para nota_s1 mejora el rendimiento al añadirla
+        ('missing_ind', missing_indicator_pipeline, mnar_custom_cols), 
+
+        # Crea una columna que cuenta el numero de personas que comparten residencia y grupo de trabajo.
+        #'''('res_work_ind', residency_work_pipeline, res_work_cols),'''
+        
+        # Aplicamos la discretización de variables continuas que no siguen una distribución normal.
+        ('num_discretize', numerical_pipeline_discretize_DT, numerical_discretize_cols_DT),
+
+        # Similar a missing_ind pero con ceros en vez de NaNs. Empeora el rendimiento
+        #'''('zero_indicator', zero_indicator_pipeline, ["superados_a1"]),'''
+    ],
+
+    remainder='drop', # drop para que solo deje las columnas especificadas (numerical y categorical _cols) y quite el resto
+                             # passthrough para que mantenga todas
+
+    verbose_feature_names_out=False # Para que no prefije nombres de transformadores a las features
+)
+
+preprocessor_NB = ColumnTransformer(
+    transformers=[
+        # Aplicamos la limpieza de texto a las categóricas
+        ('categorical', text_pipeline, categorical_cols_NB), 
+        
+        ('categorical_mode', text_pipeline_mode, categorical_mode_cols_NB),
+
+        # Aplicamos la imputación a numéricas
+        ('numerical', numerical_pipeline_NB, numerical_cols_NB),
+        # Aplicamos la imputación a las numéricas que queremos mantener la falta de información
+        ('num_mnar', numerical_pipeline_mnar_NB, numerical_mnar_cols_NB),
+
+        ('num_discretize', numerical_pipeline_discretize_NB, numerical_discretize_cols_NB),
+
+        # A Naive Bayes no le sienta bien el procesamiento de fechas, marcar los NANs en nota_s1, combinar los 0 y NaNs ni agregar la media 
+        # de nota_s1 por grupo 
+    ],
+
+    remainder='drop', # drop para que solo deje las columnas especificadas (numerical y categorical _cols) y quite el resto
+                             # passthrough para que mantenga todas
+
+    verbose_feature_names_out=False # Para que no prefije nombres de transformadores a las features
+)
+
+preprocessor_RFC = ColumnTransformer(
+
+)
+
+preprocessor_KNN = ColumnTransformer(
+
+)
+
+preprocessor_CNB = ColumnTransformer(
+    transformers=[
+        ('num', numerical_pipeline_catNB, numerical_cols_NB+numerical_mnar_cols_NB+numerical_discretize_cols_NB),
+        ('cat', catagorical_pipeline_catNB, categorical_cols_NB),
+        #('num_discretize', numerical_pipeline_discretize_NB, numerical_discretize_cols_NB),
+    ],
+    remainder='drop'
+)
+
+preprocessor_CNB = ColumnTransformer(
+    
+)
+
+preprocessor_BAG = ColumnTransformer(
+    
+)
+
+preprocessor_ADA = ColumnTransformer(
+    
+)
+
+preprocessor_GB = ColumnTransformer(
+    
+)
+
+preprocessor_HGB = ColumnTransformer(
+    
+)
+
+preprocessor_XGB = ColumnTransformer(
+    
+)
+
+preprocessor_XGB_no_cats = ColumnTransformer(
+    transformers=[
+        # Solo mantenemos las listas numéricas
+        ('numerical', numerical_pipeline_DT, numerical_cols_DT),
+        ('num_mnar', numerical_pipeline_mnar_DT, numerical_mnar_cols_DT),
+        ('missing_ind', missing_indicator_pipeline, mnar_custom_cols),
+    ],
+    remainder='drop',
+    verbose_feature_names_out=False
+)
+
+preprocessor_LGBM = ColumnTransformer(
+    
+)
+
+preprocessor_SVC = ColumnTransformer(
+    
+)
+
+preprocessor_LR = ColumnTransformer(
+    
+)
+
+preprocessor_ET = ColumnTransformer(
+    
+)

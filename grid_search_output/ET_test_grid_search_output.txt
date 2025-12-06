@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para ET_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para ET_test completado en 32.24 segundos.
+
+Mejores Parámetros encontrados para ET_test:
+{'modelo__max_depth': None, 'modelo__n_estimators': 100}
+
+Mejor Puntuación Media CV (f1): 0.6499
+
+--- Resumen de Resultados GridSearchCV para ET_test ---
+
+  param_modelo__max_depth  param_modelo__n_estimators  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0                    None                         100       4.844268          1.01017             0.84404      0.649862                  1.0            1.0                   1             1      0.645093        0.354312           0.003526     0.007913                 0.0           0.0
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para ET_test ---
