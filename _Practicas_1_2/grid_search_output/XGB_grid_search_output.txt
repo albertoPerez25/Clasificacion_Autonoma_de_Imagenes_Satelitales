@@ -1,0 +1,24 @@
+--- Iniciando GridSearchCV para XGB ---
+Fitting 25 folds for each of 8 candidates, totalling 200 fits
+GridSearchCV para XGB completado en 144.93 segundos.
+
+Mejores Parámetros encontrados para XGB:
+{'modelo__colsample_bytree': 0.7, 'modelo__learning_rate': 0.1, 'modelo__max_depth': 3, 'modelo__min_child_weight': 5, 'modelo__n_estimators': 100, 'modelo__subsample': 0.7, 'pca__n_components': 0.95, 'preprocessor__numerical__imputador_knn': 'passthrough'}
+
+Mejor Puntuación Media CV (f1): 0.6427
+
+--- Resumen de Resultados GridSearchCV para XGB ---
+
+   param_modelo__colsample_bytree  param_modelo__learning_rate  param_modelo__max_depth  param_modelo__min_child_weight  param_modelo__n_estimators  param_modelo__subsample  param_pca__n_components param_preprocessor__numerical__imputador_knn  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+2                             0.7                          0.1                        3                               5                         100                      0.7                     0.95                                  passthrough       6.170408         1.089351            0.838663      0.642683             0.906593       0.805282                   1             1      0.549790        0.280185           0.003343     0.007352            0.003266      0.007943
+0                             0.7                          0.1                        3                               1                         100                      0.7                     0.95                                  passthrough       7.062872         0.952987            0.838535      0.642575             0.906919       0.806092                   2             2      0.592839        0.261809           0.003669     0.007929            0.003376      0.008206
+1                             0.7                          0.1                        3                               1                         200                      0.7                     0.95                                  passthrough       6.957169         0.991687            0.835358      0.637716             0.914888       0.825160                   3             3      0.764746        0.293815           0.003855     0.008652            0.003038      0.007044
+4                             0.7                          0.1                        6                               1                         100                      0.7                     0.95                                  passthrough       7.165948         1.000573            0.834465      0.637262             0.931213       0.859766                   5             4      0.663109        0.224984           0.003615     0.008400            0.002772      0.005947
+3                             0.7                          0.1                        3                               5                         200                      0.7                     0.95                                  passthrough       6.378445         1.006899            0.835171      0.637248             0.914657       0.824696                   4             5      0.801314        0.231447           0.003605     0.007853            0.002928      0.006848
+6                             0.7                          0.1                        6                               5                         100                      0.7                     0.95                                  passthrough       6.803795         1.087685            0.834416      0.636944             0.927292       0.851588                   6             6      0.993998        0.279650           0.003484     0.007424            0.002839      0.006210
+5                             0.7                          0.1                        6                               1                         200                      0.7                     0.95                                  passthrough       8.026559         1.170199            0.832369      0.633064             0.955188       0.909702                   7             7      0.920837        0.372946           0.003914     0.008072            0.004009      0.008279
+7                             0.7                          0.1                        6                               5                         200                      0.7                     0.95                                  passthrough       6.720598         0.916942            0.831999      0.631871             0.947936       0.894815                   8             8      1.422763        0.338779           0.004040     0.008208            0.004131      0.008548
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para XGB ---

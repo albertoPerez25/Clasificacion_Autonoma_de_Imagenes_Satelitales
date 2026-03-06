@@ -1,2 +1,0 @@
---- Iniciando GridSearchCV para XGB_no_cat_test ---
-Fitting 25 folds for each of 1 candidates, totalling 25 fits

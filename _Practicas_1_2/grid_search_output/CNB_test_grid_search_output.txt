@@ -1,0 +1,17 @@
+--- Iniciando GridSearchCV para CNB_test ---
+Fitting 25 folds for each of 1 candidates, totalling 25 fits
+GridSearchCV para CNB_test completado en 1.46 segundos.
+
+Mejores Parámetros encontrados para CNB_test:
+{'modelo__alpha': 1.0}
+
+Mejor Puntuación Media CV (f1): 0.6251
+
+--- Resumen de Resultados GridSearchCV para CNB_test ---
+
+   param_modelo__alpha  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0                  1.0       0.204101          0.04162            0.827407      0.625071             0.833004       0.637944                   1             1      0.017873        0.008077           0.004225     0.008139            0.001554      0.002671
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para CNB_test ---

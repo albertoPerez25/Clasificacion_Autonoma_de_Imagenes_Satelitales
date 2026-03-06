@@ -1,0 +1,20 @@
+--- Iniciando GridSearchCV para SVC ---
+Fitting 25 folds for each of 4 candidates, totalling 100 fits
+GridSearchCV para SVC completado en 2053.04 segundos.
+
+Mejores Parámetros encontrados para SVC:
+{'modelo__C': 1.0, 'modelo__gamma': 'scale', 'modelo__kernel': 'rbf', 'pca_reduction__n_components': 0.95}
+
+Mejor Puntuación Media CV (f1): 0.6498
+
+--- Resumen de Resultados GridSearchCV para SVC ---
+
+   param_modelo__C param_modelo__gamma param_modelo__kernel  param_pca_reduction__n_components  mean_fit_time  mean_score_time  mean_test_accuracy  mean_test_f1  mean_train_accuracy  mean_train_f1  rank_test_accuracy  rank_test_f1  std_fit_time  std_score_time  std_test_accuracy  std_test_f1  std_train_accuracy  std_train_f1
+0              1.0               scale                  rbf                               0.95     271.821675         4.236629            0.843680      0.649766             0.913121       0.817583                   1             1     14.715285        0.382102           0.003293     0.007406            0.005825      0.013949
+2             10.0               scale                  rbf                               0.95     267.329173         3.606864            0.832764      0.628033             0.933809       0.864427                   4             2     19.449117        0.466009           0.005282     0.010072            0.008086      0.018560
+3             10.0                auto                  rbf                               0.95     260.979060         3.621521            0.833671      0.624020             0.898010       0.783520                   3             3     52.648521        0.865279           0.002829     0.005917            0.004388      0.011671
+1              1.0                auto                  rbf                               0.95     338.966594         5.056385            0.840257      0.614635             0.889973       0.750737                   2             4      9.725756        0.461358           0.002245     0.006423            0.004909      0.014565
+
+--- FIN: Resumen de resultados ---
+
+--- Fin de la optimización para SVC ---

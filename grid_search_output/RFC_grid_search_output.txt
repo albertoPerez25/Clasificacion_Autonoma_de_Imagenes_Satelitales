@@ -1,2 +1,0 @@
---- Iniciando GridSearchCV para RFC ---
-Fitting 25 folds for each of 16 candidates, totalling 400 fits

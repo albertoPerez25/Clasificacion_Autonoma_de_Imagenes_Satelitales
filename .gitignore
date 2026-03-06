@@ -213,3 +213,7 @@ __marimo__/
 
 saved_models/ET_test.joblib
 saved_models/ET.joblib
+
+EuroSAT/
+
+**/*.keras
